@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>51.0</apiVersion>
+    <isExposed>true</isExposed>
+    <masterLabel>License Plate Scanner</masterLabel>
+    <targets>
+        <target>lightning__FlowScreen</target>
+    </targets>
+    <targetConfigs>
+        <targetConfig targets="lightning__FlowScreen">
+            <property name="recordId" type="String" label="Record ID" description="Record ID to which the registration plate image will be attached" default="{!recordId}" role="inputOnly"/>
+            <property name="defaultCountry" type="String" label="Default Country" description="Default Country code to use if missing on registration plate (ie. plain UK plates) or if low res images are used" default="GB" role="inputOnly"/>
+            <property name="autoNextOnResult" type="Boolean" label="Automatically go to next Flow Element on OCR Completion" description="Goes to next element after results are returned from Einstein OCR service" default="false"/>
+            <property name="regCountry" type="String" label="Identified Country Code" description="Country of the identified registration plate, if unidentified default value is used" role="outputOnly"/>
+            <property name="regPlate" type="String" label="Identified Registration Number" description="Number of the identified registration plate, if unidentified default value is used" role="outputOnly"/>
+            <property name="defaultResult" type="String" label="Default Registration Plate (No Einstein)" description="Specify a value to be returned here if you do not wish to use the Einstein Platform" role="inputOnly"/>
+            <property name="einsteinCertEmail" type="String" label="Email used for Einstein services registration" description="Enter the email used to register for Einstein services, this is tied with the einstein_platform.pem file uploaded" role="inputOnly"/>
+        </targetConfig>
+    </targetConfigs>
+</LightningComponentBundle>

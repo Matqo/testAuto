@@ -1,0 +1,20 @@
+<template>
+    <div>
+        <lightning-input
+        name="enter-search"
+        label="Search Products"
+        type="search"
+        placeholder="Eg. Door Handle"
+        onchange={changeHandler}
+        ></lightning-input>
+        <div class="slds-p-top_small">
+            <lightning-datatable
+                key-field="id"
+                data={result}
+                columns={columns}
+                onrowaction={handleRowAction}>
+            </lightning-datatable>
+        </div>
+        
+    </div>
+</template>

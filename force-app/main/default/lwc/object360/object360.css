@@ -1,0 +1,45 @@
+
+.fill {
+  border-radius:.25rem .25rem 0 0; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden
+}
+.fill img {
+  flex-shrink: 0;
+  background-color: var(--my-color);
+  width: -webkit-fill-available;
+  height: 200px;
+  object-fit: cover;
+}
+ 
+.customer-image-container{
+  position: relative;
+  display: inline-block;
+  margin-top: -35px;
+  
+}
+.customer-avatar{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+
+  border: 3px solid white;
+}
+
+.csat-icon {
+ 
+  border: 1px solid white;
+  border-radius:50%;
+  position: absolute;
+  right: 5px;
+  bottom: 0;
+  background-color: var(--my-emoji-color);
+   
+}
+
+.title-weight {
+  font-weight: 700;
+}

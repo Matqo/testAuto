@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveDataset xmlns="http://soap.sforce.com/2006/04/metadata">
+    <application>Auto_Demo_Pack_v2_Analytics</application>
+    <masterLabel>Automative Demo Pack 1: Company Overview</masterLabel>
+    <type>default</type>
+</WaveDataset>

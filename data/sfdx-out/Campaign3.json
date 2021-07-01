@@ -1,0 +1,20 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Campaign",
+                "referenceId": "CampaignRef3"
+            },
+            "Name" : "Testdrive",
+            "Type" : "Other",
+            "ParentId" : "@CampaignRef2",
+            "Status" : "In Progress",
+            "StartDate" : "2019-01-01",
+            "EndDate" : "2019-12-31",
+            "IsActive" : true,
+            "Description" : "Lead unknown customers to testdrive page",
+            "Demo_Key__c" : "Campaign_01"
+        }
+    ]
+}
+

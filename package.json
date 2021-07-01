@@ -1,0 +1,29 @@
+{
+  "name": "automotive-acceleration-kit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfdc-qbranch/AutomotiveAcceleratorKit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfdc-qbranch/AutomotiveAcceleratorKit/issues"
+  },
+  "homepage": "https://github.com/sfdc-qbranch/AutomotiveAcceleratorKit#readme",
+  "dependencies": {
+    "eslint-plugin-jest": "^24.3.6",
+    "lwc": "^1.18.0"
+  },
+  "devDependencies": {
+    "@lwc/eslint-plugin-lwc": "^1.0.0",
+    "@salesforce/eslint-config-lwc": "^1.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.25.0"
+  }
+}

@@ -1,0 +1,1001 @@
+CompanyID,Company Name,Profit,Inventory Level,Country
+ID-04472,Eamia,223520,12,Germany
+ID-04733,Devify,119487,30,Malta
+ID-27821,Eamia,114787,12,Italy
+ID-81540,Eamia,70398,37,France
+ID-02941,Thoughtworks,60760,78,Ireland
+ID-47941,Devify,182528,27,France
+ID-83417,Mydeo,25105,27,Russia
+ID-13383,Eamia,70165,12,Ireland
+ID-90361,Eamia,178820,25,Iceland
+ID-00921,Thoughtworks,186332,44,Germany
+ID-34838,Mydeo,226820,26,Croatia
+ID-61740,Mynte,220667,18,Luxembourg
+ID-15904,Buzzdog,138404,84,Switzerland
+ID-36232,Thoughtworks,51684,47,France
+ID-95060,Thoughtworks,231955,48,Germany
+ID-83381,Eamia,193253,83,Republic of Serbia
+ID-84917,Demivee,228793,72,Spain
+ID-23463,Mydeo,37325,59,Germany
+ID-11960,Devify,50809,56,Poland
+ID-58569,Buzzdog,230672,13,Finland
+ID-64633,Demivee,232358,99,Portugal
+ID-92195,Demivee,122523,73,Italy
+ID-76740,Reallinks,41378,51,Ireland
+ID-98700,Oyope,190014,72,Czech Republic
+ID-59802,Eamia,55797,70,Belgium
+ID-79177,Thoughtworks,197492,100,Poland
+ID-98882,Buzzdog,117773,49,Germany
+ID-49901,Mydeo,116685,51,United Kingdom
+ID-18501,Devify,15203,15,Spain
+ID-80703,Thoughtworks,208514,36,Italy
+ID-99687,Meembee,221081,76,Bulgaria
+ID-56331,Devify,59714,99,Switzerland
+ID-48747,Demivee,14672,36,Germany
+ID-25414,Thoughtworks,179326,18,Germany
+ID-53830,Mynte,191696,39,Russia
+ID-19694,Buzzdog,49722,77,Germany
+ID-37813,Eamia,130131,75,Germany
+ID-40182,Jaxspan,166871,69,United Kingdom
+ID-82010,Jaxspan,113494,72,France
+ID-96890,Avamm,97526,21,United Kingdom
+ID-24393,Mynte,172415,1,Bosnia and Herzegovina
+ID-16105,Reallinks,187026,22,Germany
+ID-50462,Oyope,157837,5,France
+ID-14373,Feedspan,68207,97,Germany
+ID-02945,Devify,49123,61,Belgium
+ID-00851,Dazzlesphere,89335,54,United Kingdom
+ID-44534,Skalith,48426,83,Germany
+ID-37374,Eamia,71468,32,Croatia
+ID-61161,Mydeo,208360,20,United Kingdom
+ID-95060,Jaxspan,16882,49,Spain
+ID-19685,Devify,26299,76,Poland
+ID-72719,Thoughtworks,43905,61,Italy
+ID-06952,Devify,189900,20,Spain
+ID-72181,Eamia,101785,31,France
+ID-91488,Eamia,190298,89,Germany
+ID-13379,Mynte,40175,74,France
+ID-15408,Thoughtworks,146906,90,Slovakia
+ID-20301,Mynte,157797,46,Russia
+ID-25429,Devify,230711,17,Portugal
+ID-06220,Thoughtworks,60178,96,Spain
+ID-32802,Jaxspan,149359,17,Turkey
+ID-96136,Dazzlesphere,123362,17,Russia
+ID-08791,Oyope,224571,23,United Kingdom
+ID-48000,Buzzdog,227140,41,Netherlands
+ID-56596,Thoughtworks,142125,12,Russia
+ID-39601,Mydeo,112326,85,Hungary
+ID-80692,Mynte,106472,97,United Kingdom
+ID-74751,Meembee,105168,45,United Kingdom
+ID-79044,Dazzlesphere,100979,31,Italy
+ID-57878,Eamia,162281,9,Turkey
+ID-44986,Devify,173443,64,Poland
+ID-18513,Devify,132297,97,Greece
+ID-00846,Mydeo,39145,64,Hungary
+ID-33829,Thoughtworks,46408,62,Sweden
+ID-21671,Thoughtworks,52799,32,France
+ID-40998,Jaxspan,102834,11,Spain
+ID-03627,Skalith,130278,82,Albania
+ID-07194,Thoughtworks,66506,97,Netherlands
+ID-29271,Mydeo,201435,14,Poland
+ID-60724,Realbuzz,147452,28,Italy
+ID-68034,Meembee,128717,65,Germany
+ID-50463,Meembee,71494,44,Russia
+ID-03807,Avamm,190612,12,Czech Republic
+ID-21315,Feedspan,192560,88,France
+ID-21398,Reallinks,190639,69,Macedonia
+ID-26401,Eamia,140203,17,Spain
+ID-61677,Eamia,23731,64,Germany
+ID-50507,Eamia,82867,10,Republic of Serbia
+ID-87424,Mydeo,173964,12,Italy
+ID-17183,Demivee,128354,55,United Kingdom
+ID-90967,Skalith,161896,48,Sweden
+ID-86682,Mydeo,65948,74,Luxembourg
+ID-26729,Thoughtworks,138055,26,Switzerland
+ID-92264,Mydeo,178671,42,Germany
+ID-79513,Thoughtworks,145122,45,United Kingdom
+ID-95160,Mynte,62073,37,Germany
+ID-21258,Mydeo,164165,76,Italy
+ID-10452,Devify,57405,50,Croatia
+ID-49886,Mynte,229990,46,Germany
+ID-41438,Meembee,139498,68,France
+ID-41063,Thoughtworks,145158,96,Andorra
+ID-98401,Thoughtworks,223875,5,Andorra
+ID-94821,Thoughtworks,182187,51,Ireland
+ID-65744,Thoughtworks,107448,57,Italy
+ID-79788,Buzzdog,222428,78,Russia
+ID-90100,Mydeo,61460,1,Denmark
+ID-14540,Thoughtworks,138153,53,Czech Republic
+ID-76165,Eamia,178134,52,Russia
+ID-50307,Buzzdog,52945,42,Russia
+ID-36256,Eamia,86972,100,Switzerland
+ID-19566,Devify,182219,79,United Kingdom
+ID-59481,Eamia,97231,31,Spain
+ID-63964,Thoughtworks,83591,47,Malta
+ID-11206,Mynte,154042,21,France
+ID-63379,Thoughtworks,46966,18,Norway
+ID-26379,Devify,108187,42,Germany
+ID-32573,Thoughtworks,72890,8,Germany
+ID-59698,Eamia,195444,31,United Kingdom
+ID-13902,Thoughtworks,19699,66,Germany
+ID-67799,Thoughtworks,12723,55,Republic of Serbia
+ID-04970,Devify,110712,74,Greece
+ID-63572,Demivee,195770,76,Estonia
+ID-09378,Eamia,191322,92,Finland
+ID-99686,Thoughtworks,138648,10,Greece
+ID-06695,Mydeo,209578,70,Germany
+ID-51225,Jaxspan,44972,79,Bosnia and Herzegovina
+ID-99016,Thoughtworks,119621,86,Netherlands
+ID-82079,Jaxspan,59529,21,United Kingdom
+ID-30798,Thoughtworks,223933,13,Germany
+ID-01919,Thoughtworks,141268,14,Russia
+ID-76291,Reallinks,169398,20,Germany
+ID-27486,Buzzdog,181344,89,Ireland
+ID-69051,Flashdog,126381,24,Poland
+ID-25070,Mydeo,189141,71,Germany
+ID-17153,Buzzdog,103970,76,United Kingdom
+ID-80755,Devify,185587,1,Russia
+ID-82790,Thoughtworks,79271,79,Germany
+ID-21104,Thoughtworks,160400,80,France
+ID-01902,Mydeo,110795,91,United Kingdom
+ID-32969,Eamia,33405,27,Austria
+ID-36130,Devify,45981,19,Cyprus
+ID-73368,Thoughtworks,229292,49,Spain
+ID-59338,Buzzdog,83592,7,Monaco
+ID-17881,Devify,161795,85,Netherlands
+ID-60550,Meembee,17023,28,United Kingdom
+ID-21269,Mynte,149761,75,Malta
+ID-19713,Dazzlesphere,73937,91,Greece
+ID-74738,Devify,148694,27,Croatia
+ID-60879,Feedspan,85502,59,United Kingdom
+ID-82981,Devify,115853,19,Cyprus
+ID-83683,Buzzdog,120517,20,Macedonia
+ID-81128,Thoughtworks,34718,86,Portugal
+ID-10997,Devify,180435,21,Germany
+ID-82011,Devify,164781,34,Turkey
+ID-24502,Demivee,42948,62,Germany
+ID-62110,Eamia,78337,70,Spain
+ID-50447,Mydeo,190570,8,Germany
+ID-18042,Devify,56981,36,Italy
+ID-55583,Oyope,51599,80,Germany
+ID-94230,Eamia,216792,28,United Kingdom
+ID-34930,Reallinks,105919,75,Finland
+ID-34201,Thoughtworks,114463,53,Bosnia and Herzegovina
+ID-34547,Mynte,48565,59,Italy
+ID-46688,Demivee,68379,71,Russia
+ID-79752,Thoughtworks,22370,29,France
+ID-38706,Eamia,73249,78,United Kingdom
+ID-96505,Devify,222859,88,Bosnia and Herzegovina
+ID-78925,Flashdog,21097,65,Spain
+ID-62729,Demivee,132682,7,Germany
+ID-77445,Thoughtworks,96475,99,Poland
+ID-71282,Thoughtworks,223396,6,Germany
+ID-45573,Mydeo,173324,96,Russia
+ID-11831,Flipstorm,211669,74,Denmark
+ID-59964,Mynte,149221,38,United Kingdom
+ID-51862,Thoughtworks,63793,77,Spain
+ID-61966,Buzzdog,194910,16,Spain
+ID-66710,Mydeo,68099,71,Portugal
+ID-84863,Livepath,26629,91,Greece
+ID-32789,Demivee,60801,11,Italy
+ID-80720,Jaxspan,100787,78,Poland
+ID-88171,Mydeo,145569,40,United Kingdom
+ID-86333,Devify,129362,43,Germany
+ID-10290,Eamia,47304,99,United Kingdom
+ID-27439,Buzzdog,192321,50,Italy
+ID-13397,Mydeo,114887,51,Russia
+ID-90499,Mydeo,47612,26,Italy
+ID-37524,Devify,184912,75,Ireland
+ID-49560,Eamia,208023,3,Germany
+ID-26940,Devify,216007,2,Germany
+ID-61545,Mydeo,179657,100,Poland
+ID-09670,Izio,225569,94,Poland
+ID-06869,Thoughtworks,57455,89,Cyprus
+ID-85174,Devify,192173,90,Republic of Serbia
+ID-67095,Thoughtworks,82114,14,Germany
+ID-95319,Pixope,229169,59,Turkey
+ID-06744,Jaxspan,13734,25,Austria
+ID-15699,Eamia,219925,71,Slovenia
+ID-43944,Eamia,83379,39,United Kingdom
+ID-35955,Devify,101713,18,Spain
+ID-62151,Mydeo,98522,70,Germany
+ID-63748,Thoughtworks,68600,82,Italy
+ID-48904,Thoughtworks,49541,32,Netherlands
+ID-76533,Eamia,191565,73,Poland
+ID-53269,Reallinks,15598,14,Spain
+ID-62562,Mydeo,225230,29,United Kingdom
+ID-34464,Thoughtworks,55882,42,Italy
+ID-20005,Dazzlesphere,152945,32,Portugal
+ID-50097,Eamia,27302,92,Greece
+ID-12675,Thoughtworks,233495,23,Germany
+ID-51555,Thoughtworks,43745,73,France
+ID-94285,Realbuzz,199764,55,Turkey
+ID-62350,Eamia,158218,29,Belgium
+ID-12094,Thoughtworks,135629,71,United Kingdom
+ID-76839,Mynte,25930,47,France
+ID-72394,Devify,179879,78,France
+ID-66911,Thoughtworks,188371,81,France
+ID-00644,Devify,216863,63,France
+ID-76541,Thoughtworks,176956,4,Italy
+ID-34362,Eamia,44884,72,Lithuania
+ID-28990,Thoughtworks,230026,79,France
+ID-32492,Eamia,36407,35,Italy
+ID-47921,Devify,109079,3,Greece
+ID-47146,Jaxspan,19585,65,Germany
+ID-35161,Mydeo,222090,58,Italy
+ID-49802,Eamia,38103,72,Turkey
+ID-14347,Meembee,39466,58,Turkey
+ID-57781,Buzzdog,26279,72,Croatia
+ID-22099,Mydeo,184415,94,Germany
+ID-85830,Trudoo,182436,67,United Kingdom
+ID-31763,Eamia,201634,31,United Kingdom
+ID-70987,Izio,33902,53,Poland
+ID-97283,Devify,118535,56,France
+ID-94500,Feedspan,68046,14,Spain
+ID-74860,Thoughtworks,105315,53,Germany
+ID-36153,Eamia,137815,34,Spain
+ID-87682,Mydeo,121596,4,Belgium
+ID-48397,Mynte,62974,8,Portugal
+ID-02447,Mydeo,147201,66,Russia
+ID-04692,Thoughtworks,109755,39,United Kingdom
+ID-71447,Devify,131992,96,Bulgaria
+ID-23342,Jaxspan,114911,88,Netherlands
+ID-29364,Mynte,161082,34,Malta
+ID-71067,Thoughtworks,121743,77,Turkey
+ID-47944,Dazzlesphere,35948,6,France
+ID-07882,Devify,63703,91,Germany
+ID-22824,Jaxspan,136090,69,Germany
+ID-83687,Mydeo,224235,17,United Kingdom
+ID-74850,Thoughtworks,203683,48,Portugal
+ID-09053,Flashdog,123314,54,Germany
+ID-42002,Pixope,50225,84,Switzerland
+ID-23975,Eamia,94076,60,Italy
+ID-45056,Thoughtworks,187998,61,France
+ID-06205,Buzzdog,187950,73,Russia
+ID-89629,Flipstorm,43233,33,Italy
+ID-56941,Thoughtworks,119436,2,Russia
+ID-62685,Eamia,158223,14,Italy
+ID-36506,Livepath,112093,2,Netherlands
+ID-65473,Eamia,119542,10,United Kingdom
+ID-56446,Meembee,178077,80,Poland
+ID-28994,Jaxspan,50364,91,United Kingdom
+ID-86371,Pixope,192431,51,Portugal
+ID-62402,Mynte,220279,60,United Kingdom
+ID-29492,Mynte,120540,96,Croatia
+ID-96634,Demivee,52166,55,Monaco
+ID-55579,Mydeo,177253,37,Romania
+ID-84008,Eamia,175337,70,United Kingdom
+ID-09333,Devify,40693,39,Croatia
+ID-42034,Thoughtworks,113009,97,France
+ID-43022,Reallinks,194843,77,Germany
+ID-89540,Meembee,151158,2,Denmark
+ID-70527,Mydeo,207577,33,United Kingdom
+ID-90985,Devify,141156,44,Russia
+ID-53985,Eamia,40378,49,France
+ID-91266,Reallinks,111494,40,Cyprus
+ID-12382,Mynte,37797,37,France
+ID-14850,Jaxspan,203439,98,Italy
+ID-70548,Thoughtworks,113796,53,Switzerland
+ID-78986,Skalith,106334,66,Republic of Serbia
+ID-94383,Mydeo,130984,13,Croatia
+ID-20474,Jaxspan,53061,72,Russia
+ID-84970,Mydeo,114917,40,Lithuania
+ID-37240,Thoughtworks,195264,54,Russia
+ID-15945,Buzzdog,148437,40,Germany
+ID-78876,Mynte,65227,96,Russia
+ID-75303,Jaxspan,203453,79,Russia
+ID-92660,Buzzdog,93233,63,Spain
+ID-54396,Meembee,110398,57,Switzerland
+ID-43449,Thoughtworks,59424,52,Austria
+ID-41961,Pixope,64304,59,Bosnia and Herzegovina
+ID-13720,Jaxspan,10752,96,Germany
+ID-33497,Thoughtworks,145967,73,Netherlands
+ID-84506,Mynte,166512,12,Iceland
+ID-32323,Oyope,179477,89,Germany
+ID-59608,Eamia,226454,69,Germany
+ID-36714,Thoughtworks,224828,62,Russia
+ID-63343,Eamia,64181,84,Spain
+ID-65842,Devify,55828,19,United Kingdom
+ID-89565,Buzzdog,180057,77,Republic of Serbia
+ID-12481,Eamia,182964,6,Russia
+ID-40590,Livepath,154709,62,Germany
+ID-17281,Flashdog,58749,42,France
+ID-21508,Eamia,196499,98,United Kingdom
+ID-36868,Eamia,14730,84,Croatia
+ID-47430,Thoughtworks,13954,73,United Kingdom
+ID-43611,Eamia,188418,98,Hungary
+ID-47576,Jaxspan,98803,8,France
+ID-94915,Mynte,41810,28,Belgium
+ID-70722,Mynte,67888,51,Italy
+ID-56856,Pixope,50082,75,Italy
+ID-00253,Devify,174277,94,France
+ID-43590,Mynte,80757,10,Monaco
+ID-26122,Thoughtworks,53039,55,Germany
+ID-87432,Thoughtworks,43790,53,France
+ID-61869,Thoughtworks,183648,87,Germany
+ID-20165,Eamia,31510,23,Norway
+ID-00447,Devify,100908,83,Germany
+ID-96047,Eamia,34037,46,Italy
+ID-31265,Mydeo,169522,29,Greece
+ID-57093,Eamia,18055,7,Belgium
+ID-65512,Eamia,108569,67,France
+ID-50320,Thoughtworks,148896,81,Sweden
+ID-17533,Devify,93153,35,United Kingdom
+ID-67457,Mydeo,117172,46,Germany
+ID-52746,Meembee,77065,1,Ireland
+ID-60991,Jaxspan,130922,38,United Kingdom
+ID-61844,Mynte,23807,30,Spain
+ID-10057,Devify,94000,40,Ireland
+ID-10384,Devify,36677,85,Bulgaria
+ID-39423,Feedspan,126370,65,Belgium
+ID-99093,Demivee,156983,71,Switzerland
+ID-17795,Eamia,118590,35,Italy
+ID-75240,Thoughtworks,23219,36,Spain
+ID-66718,Thoughtworks,98166,48,Poland
+ID-70397,Thoughtworks,125751,62,Spain
+ID-48663,Eamia,43511,24,Germany
+ID-75422,Mynte,209653,33,Bosnia and Herzegovina
+ID-06904,Jaxspan,84583,61,Poland
+ID-59534,Meembee,54591,78,Netherlands
+ID-99827,Jaxspan,52054,6,Italy
+ID-17035,Mydeo,49055,8,Germany
+ID-55432,Flashdog,153657,80,Portugal
+ID-04073,Demivee,178468,20,Estonia
+ID-34083,Thoughtworks,121100,81,United Kingdom
+ID-53959,Mynte,122734,83,Belgium
+ID-62954,Thoughtworks,142268,42,Poland
+ID-59540,Demivee,81981,76,Germany
+ID-13713,Thoughtworks,129356,63,Spain
+ID-44070,Meembee,130604,28,Bulgaria
+ID-36337,Devify,131036,49,Russia
+ID-78192,Eamia,141856,83,Portugal
+ID-74824,Livepath,16139,44,Italy
+ID-94880,Jaxspan,215779,96,Portugal
+ID-36365,Eamia,47902,3,United Kingdom
+ID-03865,Devify,168465,81,Germany
+ID-45724,Buzzdog,76880,42,France
+ID-46859,Mydeo,233458,11,Germany
+ID-64957,Thoughtworks,190044,94,Turkey
+ID-16334,Mynte,91577,23,Russia
+ID-71430,Thoughtworks,168325,70,United Kingdom
+ID-20352,Mydeo,177868,55,France
+ID-29215,Devify,166771,94,Germany
+ID-35971,Buzzdog,86778,57,Ukraine
+ID-89205,Flashdog,204689,33,Germany
+ID-73637,Thoughtworks,21562,38,Ireland
+ID-02357,Thoughtworks,208079,92,Hungary
+ID-91598,Devify,21553,36,Poland
+ID-98925,Eamia,231914,86,Cyprus
+ID-02726,Eamia,121173,73,Italy
+ID-40097,Mydeo,47085,63,Estonia
+ID-22189,Jaxspan,162929,15,United Kingdom
+ID-32280,Trudoo,211957,34,France
+ID-47682,Mydeo,209755,38,Norway
+ID-68227,Buzzdog,53072,15,Macedonia
+ID-41320,Devify,59133,76,France
+ID-04517,Thoughtworks,213654,63,United Kingdom
+ID-19159,Thoughtworks,221837,24,Italy
+ID-83800,Feedspan,124684,96,Switzerland
+ID-22337,Thoughtworks,227418,94,Luxembourg
+ID-86888,Thoughtworks,62965,69,Netherlands
+ID-01615,Mydeo,231561,29,Belgium
+ID-72277,Thoughtworks,20369,45,Belgium
+ID-19973,Jaxspan,129177,95,France
+ID-51408,Devify,179481,20,France
+ID-52408,Thoughtworks,116668,61,Germany
+ID-99810,Mynte,141255,7,Poland
+ID-59528,Thoughtworks,25450,56,Poland
+ID-40894,Jaxspan,160817,78,Germany
+ID-13994,Eamia,45081,85,Slovakia
+ID-17311,Mynte,234159,21,Germany
+ID-33054,Mydeo,222913,98,Romania
+ID-67974,Skalith,29087,52,Poland
+ID-03567,Devify,19878,24,Germany
+ID-60572,Mydeo,215527,97,Netherlands
+ID-54263,Eamia,55283,26,United Kingdom
+ID-94040,Mydeo,167830,76,Spain
+ID-11281,Feedspan,97390,89,Switzerland
+ID-89002,Livepath,147605,34,Bulgaria
+ID-86534,Eamia,95156,87,Croatia
+ID-10481,Eamia,69185,52,Italy
+ID-65486,Thoughtworks,72478,51,Andorra
+ID-04854,Mydeo,99464,48,Norway
+ID-74416,Dazzlesphere,198411,87,Bulgaria
+ID-36486,Meembee,169683,60,Czech Republic
+ID-74975,Devify,125972,59,Estonia
+ID-21315,Eamia,60217,86,Italy
+ID-04422,Devify,171051,91,Germany
+ID-13798,Meembee,73539,25,Switzerland
+ID-73555,Eamia,155159,89,Republic of Serbia
+ID-68017,Demivee,59597,10,Spain
+ID-60946,Eamia,226857,90,Russia
+ID-37631,Flashdog,31105,4,Germany
+ID-57275,Eamia,216375,10,Poland
+ID-05584,Eamia,16768,72,Germany
+ID-27508,Flashdog,186952,100,Germany
+ID-71996,Eamia,168141,1,Germany
+ID-52617,Eamia,49059,71,Germany
+ID-91916,Buzzdog,87369,85,Spain
+ID-59113,Devify,147023,15,United Kingdom
+ID-64804,Thoughtworks,68978,68,Russia
+ID-17821,Eamia,32972,53,Slovenia
+ID-89934,Trudoo,154831,93,Germany
+ID-66079,Thoughtworks,10641,63,Cyprus
+ID-72779,Devify,137752,5,Denmark
+ID-99620,Meembee,224523,91,Czech Republic
+ID-06821,Demivee,33301,22,Turkey
+ID-73846,Eamia,201513,12,Netherlands
+ID-76338,Eamia,92966,9,Germany
+ID-46508,Reallinks,133560,42,Finland
+ID-94621,Flashdog,225709,93,Switzerland
+ID-85361,Devify,16149,60,Estonia
+ID-50462,Flashdog,232488,53,Turkey
+ID-74322,Eamia,34079,50,Macedonia
+ID-80387,Reallinks,74459,28,France
+ID-76660,Buzzdog,69600,30,Russia
+ID-07285,Thoughtworks,91874,10,Italy
+ID-47349,Eamia,155627,23,United Kingdom
+ID-65499,Devify,196809,58,Germany
+ID-14909,Eamia,52309,49,Netherlands
+ID-89147,Mydeo,167080,97,United Kingdom
+ID-20555,Mydeo,86938,25,France
+ID-97876,Devify,91268,50,Germany
+ID-04623,Jaxspan,103501,71,United Kingdom
+ID-42093,Mydeo,155169,15,Russia
+ID-12327,Thoughtworks,203339,62,Italy
+ID-15094,Devify,28986,77,Russia
+ID-14496,Thoughtworks,106034,95,Poland
+ID-92755,Jaxspan,101157,26,Bosnia and Herzegovina
+ID-11520,Thoughtworks,117627,15,Switzerland
+ID-22946,Eamia,116238,29,Ireland
+ID-69521,Demivee,230549,32,United Kingdom
+ID-33930,Eamia,156508,73,Netherlands
+ID-05778,Thoughtworks,82914,86,Lithuania
+ID-91166,Thoughtworks,75052,9,Belgium
+ID-84690,Devify,166564,30,Luxembourg
+ID-30791,Flashdog,106171,16,Germany
+ID-30056,Mydeo,177105,15,Germany
+ID-42854,Eamia,129935,64,Germany
+ID-21187,Trudoo,192171,12,Italy
+ID-42799,Skalith,209171,83,France
+ID-29006,Mydeo,71079,21,Russia
+ID-16988,Mydeo,55116,7,Spain
+ID-87624,Trudoo,105668,38,Spain
+ID-37414,Mydeo,197493,39,Andorra
+ID-26753,Mydeo,82725,36,Monaco
+ID-65393,Thoughtworks,104954,85,Switzerland
+ID-67198,Eamia,138522,68,United Kingdom
+ID-49242,Thoughtworks,98484,76,Hungary
+ID-94367,Jaxspan,234402,27,Ukraine
+ID-23180,Devify,110355,14,Finland
+ID-49833,Skalith,168436,52,Spain
+ID-86064,Devify,20726,1,Poland
+ID-34723,Mydeo,128732,44,France
+ID-38304,Reallinks,54838,23,Spain
+ID-96323,Thoughtworks,62024,30,Germany
+ID-67510,Livepath,208202,29,Italy
+ID-99763,Eamia,164771,10,Spain
+ID-34902,Jaxspan,213915,19,Cyprus
+ID-38743,Mynte,198650,26,Russia
+ID-20689,Eamia,132349,63,Portugal
+ID-85849,Mynte,99943,82,Estonia
+ID-96401,Eamia,225318,72,Czech Republic
+ID-43522,Eamia,117867,63,Republic of Serbia
+ID-21034,Thoughtworks,233663,13,Ireland
+ID-54374,Thoughtworks,132542,33,France
+ID-10914,Jaxspan,52121,99,Switzerland
+ID-29125,Thoughtworks,19193,71,France
+ID-05104,Jaxspan,233228,71,Russia
+ID-58975,Mynte,148269,83,Germany
+ID-71758,Thoughtworks,155622,56,Croatia
+ID-53945,Buzzdog,57740,34,Finland
+ID-98692,Eamia,122080,6,Albania
+ID-54949,Thoughtworks,160537,62,Germany
+ID-83281,Meembee,124440,18,United Kingdom
+ID-20467,Thoughtworks,79321,30,Andorra
+ID-82191,Meembee,207692,12,Finland
+ID-50084,Mydeo,59321,69,Russia
+ID-27394,Eamia,38957,5,Iceland
+ID-36978,Meembee,213588,90,Germany
+ID-45090,Thoughtworks,171869,17,Romania
+ID-32820,Mynte,154903,23,United Kingdom
+ID-38525,Thoughtworks,233099,39,United Kingdom
+ID-53237,Skalith,193497,94,Ireland
+ID-44360,Mydeo,192247,15,United Kingdom
+ID-12281,Buzzdog,56736,28,Republic of Serbia
+ID-88566,Eamia,218257,66,Russia
+ID-86971,Flashdog,35761,83,Germany
+ID-20454,Flipstorm,82277,36,Greece
+ID-41429,Thoughtworks,155503,81,Germany
+ID-94422,Mydeo,222077,71,Switzerland
+ID-72624,Mynte,185346,84,Portugal
+ID-72265,Devify,85472,95,Monaco
+ID-86997,Thoughtworks,52282,69,Ukraine
+ID-78306,Jaxspan,97120,21,France
+ID-55453,Thoughtworks,181956,21,Poland
+ID-67229,Demivee,218011,31,Germany
+ID-80667,Izio,111992,72,Finland
+ID-47212,Thoughtworks,90057,77,Germany
+ID-39614,Eamia,181570,85,Italy
+ID-05493,Thoughtworks,55754,49,United Kingdom
+ID-21930,Jaxspan,148249,68,Netherlands
+ID-42238,Realbuzz,197481,94,United Kingdom
+ID-55574,Buzzdog,96347,15,United Kingdom
+ID-16151,Devify,213377,40,United Kingdom
+ID-54164,Thoughtworks,32334,63,Italy
+ID-14676,Jaxspan,188760,98,Spain
+ID-78176,Demivee,107815,70,United Kingdom
+ID-30685,Eamia,161589,87,Cyprus
+ID-24457,Thoughtworks,118087,76,Poland
+ID-61417,Mydeo,220095,24,Switzerland
+ID-98213,Meembee,104792,47,France
+ID-11156,Pixope,209607,49,United Kingdom
+ID-78237,Demivee,101151,72,Netherlands
+ID-82557,Buzzdog,176112,87,Spain
+ID-65018,Devify,219741,41,Andorra
+ID-56723,Eamia,68483,42,Spain
+ID-49474,Eamia,105666,62,United Kingdom
+ID-18029,Meembee,190630,10,Italy
+ID-99916,Mydeo,231675,76,Russia
+ID-13188,Buzzdog,15157,11,Turkey
+ID-33353,Meembee,157146,2,Italy
+ID-40313,Jaxspan,112517,35,United Kingdom
+ID-89613,Thoughtworks,85279,31,Germany
+ID-91804,Eamia,100817,81,Italy
+ID-58764,Thoughtworks,159760,34,Republic of Serbia
+ID-03679,Mynte,179997,66,Croatia
+ID-88870,Mydeo,227960,68,Italy
+ID-25084,Thoughtworks,59948,32,Denmark
+ID-89641,Devify,137843,90,United Kingdom
+ID-43084,Thoughtworks,52165,76,Switzerland
+ID-94821,Thoughtworks,202398,45,Italy
+ID-77244,Mydeo,222566,54,Germany
+ID-48576,Mydeo,182817,46,Germany
+ID-38554,Thoughtworks,227260,9,Turkey
+ID-39579,Demivee,103174,78,Italy
+ID-69123,Pixope,71419,49,Cyprus
+ID-10765,Reallinks,80796,50,Portugal
+ID-46949,Eamia,185505,31,Switzerland
+ID-98065,Eamia,219758,17,Ireland
+ID-59617,Thoughtworks,107784,56,Germany
+ID-72889,Thoughtworks,207472,52,United Kingdom
+ID-50701,Oyope,211821,29,Slovenia
+ID-73718,Thoughtworks,73512,96,Norway
+ID-77036,Avamm,178585,4,Croatia
+ID-37182,Thoughtworks,146656,64,Switzerland
+ID-85022,Eamia,17005,93,Russia
+ID-40208,Thoughtworks,76658,21,Portugal
+ID-24982,Livepath,172177,69,United Kingdom
+ID-80184,Demivee,42911,49,Russia
+ID-17906,Eamia,60047,70,Macedonia
+ID-54566,Jaxspan,206482,6,Bulgaria
+ID-56425,Eamia,201214,35,Russia
+ID-64598,Trudoo,214705,75,Portugal
+ID-40799,Trudoo,22324,83,United Kingdom
+ID-45877,Devify,52681,59,Germany
+ID-10191,Reallinks,160294,55,Croatia
+ID-76432,Thoughtworks,54859,63,United Kingdom
+ID-11683,Pixope,207327,45,France
+ID-66427,Thoughtworks,176627,64,France
+ID-05513,Mydeo,40307,97,Switzerland
+ID-99592,Thoughtworks,169461,83,United Kingdom
+ID-92412,Mydeo,220809,57,Italy
+ID-73380,Devify,20170,95,Russia
+ID-32104,Mydeo,97662,90,Russia
+ID-32446,Skalith,130196,44,Monaco
+ID-05917,Demivee,127340,30,Germany
+ID-48950,Flashdog,113038,52,Russia
+ID-50857,Thoughtworks,87780,60,Netherlands
+ID-21884,Thoughtworks,82135,75,Germany
+ID-11055,Mydeo,146766,78,Russia
+ID-03043,Thoughtworks,42523,91,Netherlands
+ID-14244,Meembee,215255,45,Bulgaria
+ID-32168,Thoughtworks,34171,26,Italy
+ID-93901,Mydeo,148451,99,Denmark
+ID-98698,Eamia,25528,35,Italy
+ID-68140,Demivee,66808,5,Germany
+ID-92238,Eamia,81219,11,Russia
+ID-33384,Mynte,59644,20,Italy
+ID-03006,Thoughtworks,67407,31,Germany
+ID-06441,Eamia,21222,64,Norway
+ID-98832,Devify,147916,72,Portugal
+ID-84991,Demivee,204759,64,Russia
+ID-70444,Thoughtworks,154962,58,Hungary
+ID-64712,Mydeo,206656,27,Denmark
+ID-81881,Eamia,109880,69,Andorra
+ID-01497,Jaxspan,18432,83,Bulgaria
+ID-09108,Buzzdog,227339,83,United Kingdom
+ID-90309,Thoughtworks,96761,2,Portugal
+ID-95770,Avamm,207266,93,Croatia
+ID-72890,Livepath,226848,48,Turkey
+ID-76304,Thoughtworks,69340,60,Albania
+ID-09050,Meembee,228480,30,United Kingdom
+ID-91200,Mynte,140758,54,Macedonia
+ID-91621,Mydeo,75761,86,Spain
+ID-02332,Dazzlesphere,222860,96,France
+ID-64949,Thoughtworks,192067,94,Germany
+ID-81324,Eamia,40502,7,Poland
+ID-97543,Flashdog,214673,26,Netherlands
+ID-77915,Mydeo,227103,55,Ireland
+ID-99509,Jaxspan,162666,47,Russia
+ID-99882,Buzzdog,190249,23,Belgium
+ID-56299,Thoughtworks,151188,88,United Kingdom
+ID-53890,Oyope,120923,45,Poland
+ID-25683,Jaxspan,114658,80,Czech Republic
+ID-73044,Meembee,25612,12,Germany
+ID-52425,Thoughtworks,54816,62,United Kingdom
+ID-75036,Mydeo,58672,5,Russia
+ID-46792,Devify,63192,62,France
+ID-12929,Eamia,171261,84,Croatia
+ID-94553,Eamia,119905,41,United Kingdom
+ID-50284,Thoughtworks,50174,16,United Kingdom
+ID-46267,Eamia,86695,25,Germany
+ID-40535,Eamia,54371,45,Italy
+ID-96474,Thoughtworks,78700,5,Portugal
+ID-94197,Eamia,152041,8,Ireland
+ID-82807,Jaxspan,214713,91,Portugal
+ID-37937,Izio,99828,22,Lithuania
+ID-29156,Buzzdog,138732,82,Ireland
+ID-93602,Skalith,18452,36,Luxembourg
+ID-09156,Devify,122616,37,Belgium
+ID-13139,Realbuzz,95278,82,United Kingdom
+ID-02465,Buzzdog,66036,27,France
+ID-33816,Thoughtworks,54239,22,Switzerland
+ID-66423,Buzzdog,62892,66,Croatia
+ID-10972,Eamia,18492,11,Germany
+ID-43996,Eamia,203556,97,France
+ID-32578,Devify,61743,56,Germany
+ID-40823,Devify,66433,85,Ireland
+ID-53883,Devify,224567,54,Switzerland
+ID-40192,Mynte,31707,32,Belgium
+ID-28056,Flashdog,19133,30,Czech Republic
+ID-86556,Eamia,121137,16,Italy
+ID-61475,Eamia,82017,59,United Kingdom
+ID-49035,Buzzdog,108148,19,Spain
+ID-90191,Jaxspan,90590,21,Germany
+ID-97361,Eamia,104334,3,France
+ID-28819,Eamia,152336,93,Slovakia
+ID-31595,Mynte,163400,45,United Kingdom
+ID-80787,Eamia,232458,82,United Kingdom
+ID-44005,Flashdog,215633,52,Russia
+ID-56822,Demivee,178767,59,Germany
+ID-02852,Meembee,115546,46,Norway
+ID-26397,Feedspan,43270,58,Poland
+ID-15640,Mydeo,151289,22,France
+ID-01826,Thoughtworks,78250,49,United Kingdom
+ID-33898,Devify,27264,4,Greece
+ID-83105,Izio,41052,48,Turkey
+ID-53864,Eamia,227570,59,Republic of Serbia
+ID-76047,Eamia,216584,93,France
+ID-81843,Meembee,157508,21,Malta
+ID-59731,Devify,28145,12,Spain
+ID-74834,Thoughtworks,154046,52,Austria
+ID-20549,Devify,105621,61,Russia
+ID-09796,Reallinks,170238,87,Portugal
+ID-00959,Jaxspan,193875,2,Germany
+ID-95596,Thoughtworks,156373,54,Spain
+ID-31263,Thoughtworks,53307,51,Portugal
+ID-64520,Buzzdog,114702,33,Belgium
+ID-99648,Meembee,185263,42,United Kingdom
+ID-78540,Mynte,35550,93,Belgium
+ID-04020,Devify,208646,10,Turkey
+ID-63228,Jaxspan,166990,60,Lithuania
+ID-95489,Buzzdog,143800,96,United Kingdom
+ID-87741,Thoughtworks,96375,30,Spain
+ID-32527,Eamia,85995,83,United Kingdom
+ID-72604,Thoughtworks,84482,81,Germany
+ID-59378,Eamia,64603,16,Luxembourg
+ID-68813,Oyope,72061,37,Spain
+ID-19156,Flashdog,121775,24,Denmark
+ID-18619,Demivee,189672,25,Russia
+ID-68453,Livepath,226315,54,Denmark
+ID-41484,Devify,13362,78,Poland
+ID-64062,Meembee,227400,63,Turkey
+ID-59509,Thoughtworks,160513,21,Germany
+ID-75349,Thoughtworks,197325,21,Switzerland
+ID-41808,Thoughtworks,141323,84,United Kingdom
+ID-11680,Mynte,171651,20,Bulgaria
+ID-15744,Thoughtworks,108114,6,Turkey
+ID-95725,Eamia,44379,97,France
+ID-88744,Thoughtworks,67871,40,Norway
+ID-16690,Eamia,160341,23,Portugal
+ID-68876,Mydeo,113738,9,Germany
+ID-10156,Thoughtworks,153916,25,Iceland
+ID-68319,Oyope,52487,32,Croatia
+ID-23061,Thoughtworks,196945,73,Netherlands
+ID-59996,Avamm,53455,44,United Kingdom
+ID-40351,Thoughtworks,88982,25,Germany
+ID-61830,Thoughtworks,73161,66,Switzerland
+ID-97562,Mynte,136350,26,France
+ID-51831,Livepath,215279,44,Slovakia
+ID-26403,Jaxspan,23251,59,Poland
+ID-01530,Thoughtworks,57118,76,United Kingdom
+ID-81799,Mynte,216281,31,Netherlands
+ID-32559,Flashdog,17386,59,Czech Republic
+ID-71054,Thoughtworks,212320,36,Denmark
+ID-87926,Devify,197463,29,Poland
+ID-81601,Eamia,45709,36,Andorra
+ID-35981,Mydeo,34923,13,Slovakia
+ID-06303,Meembee,132341,33,Bulgaria
+ID-98687,Thoughtworks,76404,100,Switzerland
+ID-47864,Devify,75897,69,Monaco
+ID-33963,Eamia,170864,35,Germany
+ID-92313,Mynte,23166,19,Russia
+ID-89360,Oyope,75344,57,United Kingdom
+ID-23506,Mydeo,227825,54,Ireland
+ID-81252,Mynte,188697,36,Germany
+ID-03434,Demivee,159027,30,France
+ID-19643,Jaxspan,26397,51,United Kingdom
+ID-72462,Thoughtworks,147644,39,Switzerland
+ID-14640,Thoughtworks,80562,68,Germany
+ID-35018,Oyope,178539,64,Croatia
+ID-07230,Thoughtworks,111374,23,Republic of Serbia
+ID-98118,Jaxspan,17524,6,Bosnia and Herzegovina
+ID-57619,Mydeo,95153,74,Italy
+ID-93007,Reallinks,207621,37,Italy
+ID-68460,Eamia,85600,25,Italy
+ID-41087,Eamia,218221,78,France
+ID-54803,Thoughtworks,112508,85,Germany
+ID-36667,Eamia,18985,53,Netherlands
+ID-32785,Devify,18767,25,Netherlands
+ID-17411,Thoughtworks,61486,39,Croatia
+ID-40888,Mynte,102921,93,Croatia
+ID-27934,Thoughtworks,192311,12,Denmark
+ID-29076,Devify,122296,42,France
+ID-62520,Mynte,89231,3,Russia
+ID-92293,Oyope,161082,92,France
+ID-53196,Thoughtworks,113302,56,United Kingdom
+ID-58871,Eamia,204759,53,Czech Republic
+ID-03011,Thoughtworks,89023,44,Poland
+ID-09880,Eamia,103673,76,Norway
+ID-71359,Realbuzz,90464,3,France
+ID-80998,Dazzlesphere,224556,59,Russia
+ID-11890,Devify,203394,21,Belgium
+ID-71095,Thoughtworks,32952,5,Russia
+ID-37349,Meembee,35612,83,Netherlands
+ID-51215,Eamia,211645,53,Luxembourg
+ID-39801,Eamia,167645,67,Finland
+ID-57760,Reallinks,104789,89,Russia
+ID-74639,Flashdog,105885,78,Italy
+ID-25437,Devify,151405,65,Germany
+ID-19642,Mydeo,161040,46,Poland
+ID-19491,Eamia,144195,90,United Kingdom
+ID-11252,Mynte,118682,43,France
+ID-75496,Thoughtworks,204596,79,Norway
+ID-16521,Eamia,170534,89,United Kingdom
+ID-91607,Thoughtworks,84557,12,Bosnia and Herzegovina
+ID-73620,Jaxspan,130317,64,Poland
+ID-55439,Flipstorm,48267,52,Hungary
+ID-43623,Buzzdog,218659,96,France
+ID-84794,Devify,223073,36,Italy
+ID-87609,Eamia,41276,35,Malta
+ID-29645,Thoughtworks,143259,52,Andorra
+ID-01930,Realbuzz,87464,59,Croatia
+ID-28825,Thoughtworks,86086,10,Italy
+ID-54366,Flashdog,40194,75,Iceland
+ID-84752,Thoughtworks,15415,90,Austria
+ID-72291,Eamia,76370,93,Portugal
+ID-48609,Eamia,83328,15,Czech Republic
+ID-97706,Meembee,167389,38,Germany
+ID-54326,Eamia,71035,84,Germany
+ID-77616,Devify,24623,77,Germany
+ID-97023,Mydeo,10267,24,Belgium
+ID-44412,Devify,172750,2,France
+ID-58371,Thoughtworks,147727,85,Norway
+ID-57259,Mydeo,165102,35,Greece
+ID-47267,Devify,49546,84,Germany
+ID-58781,Mydeo,234581,94,Italy
+ID-51258,Thoughtworks,155568,51,United Kingdom
+ID-77118,Devify,191008,18,Portugal
+ID-44997,Mynte,169593,56,Italy
+ID-10775,Devify,195071,100,Spain
+ID-63460,Reallinks,25714,51,Lithuania
+ID-48847,Thoughtworks,71178,22,Spain
+ID-91238,Mydeo,120919,13,Austria
+ID-48708,Mynte,59030,62,Bulgaria
+ID-48543,Thoughtworks,103536,21,United Kingdom
+ID-77732,Buzzdog,199424,53,Hungary
+ID-27710,Eamia,18208,85,Germany
+ID-41263,Eamia,39909,60,Slovenia
+ID-77557,Devify,192911,5,Italy
+ID-56142,Demivee,58783,88,Bulgaria
+ID-66589,Thoughtworks,98438,79,Netherlands
+ID-15736,Flashdog,175705,73,Germany
+ID-26821,Devify,166909,96,United Kingdom
+ID-32677,Thoughtworks,43592,71,Germany
+ID-12283,Eamia,94513,37,Hungary
+ID-90572,Devify,71589,2,Portugal
+ID-46624,Eamia,18514,3,United Kingdom
+ID-86756,Mynte,149435,29,Spain
+ID-12504,Devify,234270,30,Russia
+ID-16256,Devify,157444,89,Germany
+ID-10453,Eamia,150661,20,Italy
+ID-74971,Demivee,29475,63,Finland
+ID-35860,Devify,33164,58,United Kingdom
+ID-12412,Devify,231936,77,Bulgaria
+ID-86443,Mydeo,111229,76,Italy
+ID-93294,Thoughtworks,142897,69,Netherlands
+ID-74519,Thoughtworks,119857,83,Republic of Serbia
+ID-66622,Thoughtworks,145431,62,Germany
+ID-31923,Oyope,99718,8,France
+ID-20396,Jaxspan,136747,4,Andorra
+ID-16618,Thoughtworks,105636,74,Cyprus
+ID-79246,Pixope,189599,68,Italy
+ID-17359,Mynte,171524,16,Russia
+ID-70100,Jaxspan,35996,26,Greece
+ID-15845,Mynte,171730,19,Germany
+ID-69341,Eamia,131979,52,France
+ID-14840,Devify,26131,6,Finland
+ID-94675,Jaxspan,147164,82,Denmark
+ID-20978,Mynte,41613,56,United Kingdom
+ID-93913,Livepath,224051,6,Germany
+ID-83945,Thoughtworks,139259,75,Croatia
+ID-97240,Devify,233799,26,Germany
+ID-55953,Buzzdog,169828,45,Republic of Serbia
+ID-01615,Eamia,44921,65,Spain
+ID-94239,Thoughtworks,137219,29,Denmark
+ID-38029,Thoughtworks,151088,74,Russia
+ID-55910,Eamia,194002,91,United Kingdom
+ID-74933,Izio,47424,27,Portugal
+ID-15737,Meembee,73963,16,Belgium
+ID-28925,Devify,31864,58,Russia
+ID-69593,Devify,73176,6,Czech Republic
+ID-66008,Devify,48791,73,Hungary
+ID-90844,Jaxspan,124259,67,Greece
+ID-09546,Skalith,32891,45,Netherlands
+ID-03754,Buzzdog,147510,96,Germany
+ID-68628,Eamia,222837,43,France
+ID-22827,Eamia,98447,17,Czech Republic
+ID-40395,Devify,27699,27,Belgium
+ID-33673,Demivee,232394,78,Turkey
+ID-23363,Mydeo,15245,29,United Kingdom
+ID-88667,Reallinks,108534,66,United Kingdom
+ID-01921,Devify,83062,24,Croatia
+ID-30994,Eamia,225753,41,Germany
+ID-93851,Thoughtworks,10017,81,Russia
+ID-29331,Dazzlesphere,142850,30,Estonia
+ID-09716,Thoughtworks,88211,87,Germany
+ID-26838,Thoughtworks,40524,11,Spain
+ID-77582,Devify,164235,18,Germany
+ID-74314,Mynte,52191,13,Russia
+ID-35407,Thoughtworks,19981,93,United Kingdom
+ID-34700,Devify,37786,20,Russia
+ID-53375,Meembee,169142,16,United Kingdom
+ID-37518,Jaxspan,164255,35,Denmark
+ID-75976,Eamia,117870,67,Germany
+ID-86320,Thoughtworks,90580,11,United Kingdom
+ID-82673,Mynte,83246,75,Russia
+ID-79358,Devify,210877,29,Portugal
+ID-56146,Demivee,42123,57,Czech Republic
+ID-11495,Flashdog,14646,92,United Kingdom
+ID-53172,Jaxspan,55257,18,Hungary
+ID-74933,Eamia,16232,42,Ukraine
+ID-50990,Thoughtworks,188472,22,Switzerland
+ID-78171,Thoughtworks,11291,87,Italy
+ID-04447,Flashdog,74162,4,Denmark
+ID-99283,Eamia,188696,44,Germany
+ID-24828,Mydeo,174501,85,Albania
+ID-89758,Livepath,163495,63,Norway
+ID-87725,Eamia,206476,94,Luxembourg
+ID-93853,Eamia,17318,95,United Kingdom
+ID-00415,Thoughtworks,191136,99,Portugal
+ID-97913,Eamia,145018,39,Slovakia
+ID-02202,Mydeo,50131,64,France
+ID-24031,Thoughtworks,43887,98,Switzerland
+ID-22005,Demivee,217268,43,Belgium
+ID-91822,Mynte,159619,17,Italy
+ID-77035,Thoughtworks,79237,58,Croatia
+ID-22827,Eamia,223971,36,Germany
+ID-30738,Thoughtworks,113331,55,United Kingdom
+ID-33191,Mynte,28373,11,United Kingdom
+ID-23673,Thoughtworks,30143,7,France
+ID-26625,Devify,182675,62,Lithuania
+ID-67376,Reallinks,231816,5,France
+ID-45862,Devify,50206,11,Germany
+ID-95107,Devify,100923,82,Italy
+ID-67860,Reallinks,169940,72,Croatia
+ID-78373,Thoughtworks,161577,87,Lithuania
+ID-18543,Trudoo,38254,43,United Kingdom
+ID-45978,Trudoo,233350,41,Spain
+ID-63015,Jaxspan,141558,34,Russia
+ID-28947,Meembee,191483,59,Russia
+ID-93831,Devify,16672,57,United Kingdom
+ID-04688,Jaxspan,224900,13,Malta
+ID-52954,Skalith,68381,1,Bulgaria
+ID-63822,Thoughtworks,84911,82,France
+ID-25454,Thoughtworks,201951,38,United Kingdom
+ID-40016,Demivee,65994,92,Germany
+ID-92036,Dazzlesphere,58335,46,Germany
+ID-55217,Jaxspan,230880,81,Poland
+ID-50345,Eamia,192072,47,Russia
+ID-49229,Mydeo,32122,48,Russia
+ID-54635,Devify,68306,71,Switzerland
+ID-09561,Thoughtworks,164885,32,Bulgaria
+ID-19284,Avamm,30327,50,Romania
+ID-22583,Devify,146604,45,Denmark
+ID-91355,Thoughtworks,63872,47,France
+ID-53627,Eamia,70733,41,France
+ID-41375,Mydeo,98289,58,Germany
+ID-08529,Eamia,88037,48,Russia
+ID-50410,Thoughtworks,77676,6,Austria
+ID-09152,Izio,80665,11,Ireland
+ID-29273,Mynte,59729,89,Spain
+ID-48574,Meembee,180153,75,Denmark
+ID-18827,Flashdog,112188,90,Italy
+ID-65456,Mydeo,65621,70,Luxembourg
+ID-74216,Mydeo,43974,45,Belgium
+ID-78532,Meembee,111303,11,United Kingdom
+ID-04735,Thoughtworks,201581,74,Hungary
+ID-42639,Thoughtworks,39679,69,Ukraine
+ID-91044,Dazzlesphere,47309,31,Germany
+ID-14773,Skalith,73995,20,United Kingdom
+ID-96980,Feedspan,35580,68,United Kingdom
+ID-93303,Demivee,118151,77,United Kingdom
+ID-33074,Mydeo,206708,46,Russia
+ID-74009,Buzzdog,161246,28,Belgium
+ID-31413,Oyope,217807,25,Russia
+ID-73181,Livepath,203559,45,Russia
+ID-73859,Devify,211452,53,Croatia
+ID-41446,Mydeo,41361,76,Turkey
+ID-46537,Mynte,229802,42,Portugal
+ID-73309,Eamia,42728,14,Denmark
+ID-63907,Eamia,142973,11,Spain
+ID-87769,Devify,39779,54,Republic of Serbia
+ID-20869,Buzzdog,162168,11,Germany
+ID-87874,Meembee,185256,6,Denmark
+ID-81361,Jaxspan,72501,12,United Kingdom
+ID-40884,Thoughtworks,158788,3,Lithuania
+ID-64754,Trudoo,188379,45,Turkey
+ID-19304,Thoughtworks,30523,39,Hungary
+ID-19443,Livepath,159647,24,France
+ID-37000,Eamia,166382,32,Spain
+ID-62234,Oyope,218950,72,Spain
+ID-33224,Eamia,159677,8,France
+ID-91515,Thoughtworks,187593,40,Hungary
+ID-15345,Eamia,202481,8,Portugal
+ID-44741,Thoughtworks,47309,86,Italy
+ID-59902,Mydeo,114482,73,Netherlands
+ID-52728,Oyope,43941,72,Lithuania
+ID-01909,Devify,136484,21,Croatia
+ID-50590,Mynte,44371,33,United Kingdom
+ID-77962,Meembee,176056,61,Switzerland
+ID-33480,Devify,160029,20,Spain
+ID-03070,Thoughtworks,199176,5,Russia
+ID-22804,Devify,100560,78,Slovakia
+ID-19623,Jaxspan,198191,93,United Kingdom
+ID-96925,Mydeo,210117,86,Finland
+ID-86924,Eamia,72464,60,Portugal
+ID-40010,Mynte,41067,65,France
+ID-60865,Meembee,145784,11,United Kingdom
+ID-80673,Mydeo,218138,44,Portugal
+ID-99119,Demivee,72672,11,Spain
+ID-04159,Thoughtworks,199316,40,Belgium
+ID-30213,Jaxspan,124766,35,Germany
+ID-49942,Feedspan,234673,79,Austria
+ID-97000,Thoughtworks,83997,51,Germany
+ID-94228,Eamia,140987,30,Portugal
+ID-79884,Devify,39087,34,Switzerland
+ID-10539,Thoughtworks,40828,87,Germany
+ID-70198,Jaxspan,17546,59,France
+ID-23137,Eamia,171429,86,Spain
+ID-35989,Devify,39371,5,Italy
+ID-94769,Devify,41846,87,Ireland
+ID-64274,Meembee,50945,41,Hungary
+ID-48589,Eamia,33159,92,Germany
+ID-24877,Jaxspan,79775,21,United Kingdom
+ID-97091,Mydeo,116342,71,Germany
+ID-16911,Eamia,221582,49,Poland
+ID-87599,Devify,47749,31,Spain
+ID-52815,Eamia,28758,26,United Kingdom
+ID-85952,Avamm,157161,95,United Kingdom
+ID-54643,Mydeo,93772,95,Croatia
+ID-76286,Mydeo,21817,25,Russia
+ID-59704,Eamia,33260,96,United Kingdom
+ID-09340,Devify,24626,96,Germany
+ID-27767,Thoughtworks,226017,2,Germany
+ID-28671,Mynte,196435,28,Italy
+ID-28086,Mydeo,48358,2,Italy
+ID-85389,Thoughtworks,203254,5,Lithuania
+ID-29119,Devify,144848,55,France
+ID-06996,Jaxspan,72674,18,Russia
+ID-40561,Jaxspan,13808,25,Italy

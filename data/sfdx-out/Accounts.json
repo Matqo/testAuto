@@ -1,0 +1,41 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Name" : "Fisher",
+            "Type" : "Household"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "Name" : "AutoForce Berlin",
+            "Type" : "Mid-Market",
+            "BillingStreet" : "Fox Str. 15400",
+            "BillingCity" : "Berlin",
+            "BillingState" : "",
+            "BillingPostalCode" : "55445",
+            "BillingCountry" : "Germany",
+            "ShippingStreet" : "Fox Str. 15400",
+            "ShippingCity" : "Berlin",
+            "ShippingState" : "",
+            "ShippingPostalCode" : "55445",
+            "ShippingCountry" : "Germany",
+            "Phone" : "(030) 439-550",
+            "Fax" : "",
+            "AccountNumber" : "A4544335",
+            "Website" : "www.salesforce.com",
+            "AnnualRevenue" : 12000000,
+            "NumberOfEmployees" : 2700,
+            "Ownership" : "Private",
+            "Description" : "Central Berlin Dealer",
+            "Site" : "Single Location",
+            "AccountSource" : "Marketing Event",
+            "Demo_Key__c" : "Account_01"
+        }
+    ]
+}

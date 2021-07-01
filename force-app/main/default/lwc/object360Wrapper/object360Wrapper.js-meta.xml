@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>51.0</apiVersion>
+    <isExposed>true</isExposed>
+    <masterLabel>Object 360 Dynamic</masterLabel>
+    <description>Any object 360.</description>
+    <targets>
+        <target>lightningCommunity__Page</target>
+        <target>lightningCommunity__Default</target>
+        <target>lightning__AppPage</target>
+        <target>lightning__HomePage</target>
+        <target>lightning__RecordPage</target>
+    </targets>
+    <targetConfigs>
+        <targetConfig targets="lightning__HomePage, lightning__RecordPage, lightningCommunity__Default">
+            
+           
+            <property name="showProgress" type="Boolean" label="Include Path" description="Select This if you want to display a path of picklist values from your chosen object"></property>
+            <property name="qualifiedFieldName" type="String" label="Qualified Picklist Field Name" description="Qualified field name of the picklist field. Eg: Account.Rating"/>
+            <!-- make object required -->
+            <property name="object" type="String" label="Object API Name" description="Enter Object where you want to get field data from" />
+            <property name="recordId" type="String" label="Record Id" description="Automatically binds the page's record id to the component variable, default value contextually obtains record Id from Lightning page, this can also be set explicitly" default="{!recordId}"/>
+            
+            <property name="showEmoji" type="Boolean"  label="Show C-Sat Emoji"></property>
+            <property name="customColor" type="String" label="Profile Card Background Colour" default="blue" description="Display Your chosen color here instead of an image" />
+            <property name="backgroundImage" type="String" label="Profile Card Background Photo" default="https://imgur.com/HmfcYBp.png" description="Insert a link to your chosen background image"/>
+            <property name="name" type="String" label="Name" default="" description="Name"/>
+            <property name="nameLabel" type="String" label="Label Underneath Name" default="" description="This can be more details around the item or it can be an address placeholder "/>
+            <property name="userAvatar" type="String" label="Profile Picture" default="CreatedBy.SmallPhotoUrl" />
+            
+            
+            
+            <property name="metric1" type="String" label="Metric 1 Label" default="Metric 1" description="A Heading For Your Chosen Metric" />
+            <property name="metric1FieldName" type="String" label="Metric 1 Field API Name" default="" description="Enter Field Api Name from Object to access Data" />
+            <property name="metric1Icon" type="String" label="Metric 1 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/"/>
+            <property name="metric1IconSize" type="String" label="Metric 1 Icon Size" datasource="Small,Medium,large" default="Medium"/>
+            
+            <property name="metric2" type="String" label="Metric 2 Label" default="Metric 2" description="A Heading For Your Chosen Metric" />
+            <property name="metric2FieldName" type="String" label="Metric 2 Field API Name" default="" description="Enter Field Api Name from Object to access Data"/>
+            <property name="metric2Icon" type="String" label="Metric 2 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/" />
+            <property name="metric2IconSize" type="String" label="Metric 2 Icon Size" datasource="Small,Medium,large" default="Medium" />
+           
+            <property name="metric3" type="String" label="Metric 3 Label" default="Metric 3" description="A Heading For Your Chosen Metric" />
+            <property name="metric3FieldName" type="String" label="Metric 3 Field API Name" default="" description="Enter Field Api Name from Object to access Data" />
+            <property name="metric3Icon" type="String" label="Metric 3 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/" />
+            <property name="metric3IconSize" type="String" label="Metric 3 Icon Size" datasource="Small,Medium,large" default="Medium" />
+           
+            <property name="metric4" type="String" label="Metric 4 Label" default="Metric 4" description="A Heading For Your Chosen Metric" />
+            <property name="metric4FieldName" type="String" label="Metric 4 Field API Name" default=""  description="Enter Field Api Name from Object to access Data"/>
+            <property name="metric4Icon" type="String" label="Metric 4 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/" />
+            <property name="metric4IconSize" type="String" label="Metric 4 Icon Size" datasource="Small,Medium,large" default="Medium" />
+           
+            <property name="metric5" type="String" label="Metric 5 Label" default="Metric 5" description="A Heading For Your Chosen Metric"  />
+            <property name="metric5FieldName" type="String" label="Metric 5 Field API Name" default=""  description="Enter Field Api Name from Object to access Data"/>
+            <property name="metric5Icon" type="String" label="Metric 5 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/" />
+            <property name="metric5IconSize" type="String" label="Metric 5 Icon Size" datasource="Small,Medium,large" default="Medium" />
+            
+            <property name="metric6" type="String" label="Metric 6 Label" default="Metric 6" description="A Heading For Your Chosen Metric" />
+            <property name="metric6FieldName" type="String" label="Metric 6 Field API Name" default="" description="Enter Field Api Name from Object to access Data"/>
+            <property name="metric6Icon" type="String" label="Metric 6 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/" />
+            <property name="metric6IconSize" type="String" label="Metric 6 Icon Size" datasource="Small,Medium,large" default="Medium" />
+           
+        </targetConfig>
+    </targetConfigs>
+
+
+</LightningComponentBundle>

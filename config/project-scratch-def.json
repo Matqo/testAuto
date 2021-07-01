@@ -1,0 +1,13 @@
+{
+  "orgName": "agaco company",
+  "edition": "Developer",
+  "features": ["EnableSetPasswordInApi","Communities","SalesWave","ServiceWave","Knowledge","LightningServiceConsole","ServiceCloud","ServiceUser" ],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}

@@ -1,0 +1,1001 @@
+OrderID,Company Name,Warehouse Location,Vehicle Model,Main Components Ordered,Sub Components Ordered,Platform,Channel
+OID-31089,Thoughtworks,Germany,Toyota Yaris,Spark Plug,Door,Combustion,Dealer
+OID-82017,Eamia,Netherlands,Toyota Corolla,Chassis,Mirror,Combustion,Unaffiliated Workshops
+OID-97265,Thoughtworks,Germany,Toyota Yaris,Fuse Box,Bumper,Combustion,Dealer
+OID-07793,Mydeo,Germany,Dacia Sanedero,Headlights,Speaker,Hybrid,Unaffiliated Workshops
+OID-65170,Mydeo,Switzerland,Toyota Carolia,Brakes,Roof,Combustion,Dealer
+OID-83083,Devify,Netherlands,Renault Clio,Chassis,Mirror,Combustion,Dealer
+OID-91464,Demivee,Spain,Toyota Carolia,Airbags,Door,Electric,Dealer
+OID-18953,Meembee,United Kingdom,Toyota Carolia,Spark Plug,Mirror,Combustion,Dealer
+OID-65737,Eamia,Romania,Skoda Octavia,Distributor,Bumper,Combustion,Unaffiliated Workshops
+OID-99743,Oyope,Spain,Kia Niro,Airbags,Door,Combustion,Dealer
+OID-29591,Jaxspan,United Kingdom,Kia Niro,Headlights,GPS,Combustion,Unaffiliated Workshops
+OID-50234,Thoughtworks,Spain,Toyota Corolla,Headlights,Alarm,Combustion,Direct
+OID-21231,Thoughtworks,Italy,Toyota RAV4,Tires,GPS,Electric,Dealer
+OID-58539,Jaxspan,Germany,Audi e-Tron,Airbags,Door,Combustion,Direct
+OID-57311,Mydeo,Italy,Kia Niro,Chassis,Door,Hybrid,Direct
+OID-40714,Livepath,Netherlands,Toyota Corolla,Spark Plug,Mirror,Hybrid,Dealer
+OID-32921,Eamia,Romania,Volkswagen Golf,Battery,Door,Combustion,Unaffiliated Workshops
+OID-42243,Devify,United Kingdom,Renault Clio,Battery,Door,Combustion,Dealer
+OID-98147,Eamia,Germany,Peugeot 208,Tires,Radio,Hybrid,Dealer
+OID-31107,Jaxspan,United Kingdom,Hyundai Tucson,Headlights,GPS,Combustion,Unaffiliated Workshops
+OID-96967,Flashdog,Romania,Toyota Yaris,Brakes,GPS,Combustion,Dealer
+OID-69915,Thoughtworks,Netherlands,Fiat Panda,Gearbox,Speaker,Combustion,Dealer
+OID-60767,Thoughtworks,Italy,Toyota RAV4,Airbags,Speaker,Combustion,Dealer
+OID-53341,Devify,Germany,Dacia Lodgy,Battery,Radio,Combustion,Unaffiliated Workshops
+OID-47730,Eamia,United Kingdom,Hyundai Tucson,Distributor,Radio,Hybrid,Dealer
+OID-11562,Eamia,Italy,Toyota Yaris,Headlights,Rims,Electric,Unaffiliated Workshops
+OID-34940,Izio,Italy,Renault Clio,Fuse Box,Roof,Combustion,Dealer
+OID-78058,Buzzdog,Germany,Toyota RAV4,Drivetrain,Subwoofer,Combustion,Dealer
+OID-91310,Thoughtworks,Germany,Peugeot 208,Drivetrain,Door,Combustion,Unaffiliated Workshops
+OID-02138,Thoughtworks,Germany,Volkswagen Golf,Distributor,Roof,Combustion,Dealer
+OID-79023,Eamia,Italy,Audi e-Tron,Airbags,Mirror,Combustion,Dealer
+OID-78686,Eamia,Germany,Skoda Octavia,Airbags,GPS,Combustion,Unaffiliated Workshops
+OID-31239,Realbuzz,France,Fiat Panda,Chassis,Rims,Electric,Direct
+OID-47647,Trudoo,Germany,Peugeot 208,Spark Plug,Door,Combustion,Unaffiliated Workshops
+OID-60487,Demivee,Italy,Skoda Octavia,Fuse Box,Mirror,Hybrid,Dealer
+OID-21675,Flashdog,Spain,Toyota Corolla,Headlights,Mirror,Combustion,Unaffiliated Workshops
+OID-88348,Jaxspan,Germany,Hyundai Tucson,Fuse Box,Radio,Combustion,Direct
+OID-21919,Mynte,France,Hyundai Tucson,Fuse Box,Door,Combustion,Dealer
+OID-53880,Pixope,Germany,Skoda Octavia,Battery,Roof,Combustion,Dealer
+OID-34977,Thoughtworks,United Kingdom,Dacia Sanedero,Battery,Rims,Combustion,Dealer
+OID-70502,Eamia,Spain,Volkswagen Golf,Radiator,Door,Combustion,Dealer
+OID-04278,Flashdog,United Kingdom,Toyota Carolia,Ignition Box,Bumper,Combustion,Dealer
+OID-01303,Reallinks,United Kingdom,Volkswagen Golf,Thermostat,Radio,Electric,Dealer
+OID-04561,Eamia,Germany,Toyota Carolia,Battery,Mirror,Combustion,Dealer
+OID-31281,Flashdog,United Kingdom,Renault Clio,Battery,Door,Combustion,Dealer
+OID-58639,Eamia,Italy,Renault Clio,Drivetrain,Door,Hybrid,Direct
+OID-19505,Demivee,Switzerland,Renault Clio,Airbags,Mirror,Hybrid,Dealer
+OID-32413,Eamia,Germany,Dacia Sanedero,Brakes,Mirror,Combustion,Dealer
+OID-66386,Devify,United Kingdom,Renault Clio,Headlights,Roof,Combustion,Dealer
+OID-29439,Trudoo,Romania,Kia Niro,Gearbox,Door,Combustion,Dealer
+OID-01659,Feedspan,Spain,Kia Niro,Tires,Radio,Combustion,Dealer
+OID-10823,Mynte,Germany,Toyota Yaris,Tires,Bumper,Electric,Dealer
+OID-91642,Demivee,United Kingdom,Audi e-Tron,Headlights,Radio,Combustion,Dealer
+OID-34186,Thoughtworks,Germany,Volkswagen Golf,Battery,Roof,Combustion,Dealer
+OID-77061,Eamia,United Kingdom,Volkswagen Golf,Headlights,Bumper,Electric,Dealer
+OID-82236,Devify,France,Skoda Octavia,Battery,Rims,Combustion,Dealer
+OID-17966,Mydeo,Italy,Fiat Panda,Fuse Box,Radio,Combustion,Dealer
+OID-99260,Demivee,Germany,Toyota Yaris,Battery,Mirror,Combustion,Dealer
+OID-78939,Thoughtworks,Germany,Dacia Lodgy,Chassis,Rims,Hybrid,Dealer
+OID-81772,Mydeo,Germany,Toyota RAV4,Spark Plug,Mirror,Hybrid,Dealer
+OID-69382,Eamia,United Kingdom,Hyundai Tucson,Battery,Alarm,Hybrid,Dealer
+OID-25587,Devify,United Kingdom,Peugeot 208,Chassis,Roof,Electric,Dealer
+OID-69088,Mydeo,Germany,Skoda Octavia,Tires,Radio,Combustion,Dealer
+OID-71168,Mydeo,Netherlands,Toyota Carolia,Chassis,Rims,Hybrid,Dealer
+OID-68234,Jaxspan,United Kingdom,Hyundai Tucson,Airbags,Roof,Combustion,Dealer
+OID-08967,Thoughtworks,Netherlands,Skoda Octavia,Tires,Radio,Combustion,Dealer
+OID-94125,Mynte,Italy,Hyundai Tucson,Tires,Alarm,Combustion,Unaffiliated Workshops
+OID-69622,Thoughtworks,Germany,Toyota Yaris,Fuse Box,Radio,Electric,Unaffiliated Workshops
+OID-65742,Devify,France,Volkswagen Golf,Headlights,Radio,Combustion,Unaffiliated Workshops
+OID-88529,Thoughtworks,United Kingdom,Peugeot 208,Gearbox,Radio,Hybrid,Dealer
+OID-58969,Devify,Netherlands,Toyota RAV4,Battery,Door,Electric,Dealer
+OID-07550,Devify,Germany,Toyota Corolla,Battery,Door,Combustion,Unaffiliated Workshops
+OID-01541,Eamia,Italy,Fiat Panda,Radiator,Door,Combustion,Dealer
+OID-30809,Devify,Italy,Toyota Yaris,Brakes,GPS,Combustion,Dealer
+OID-14630,Mydeo,United Kingdom,Fiat Panda,Headlights,Door,Combustion,Direct
+OID-96552,Skalith,United Kingdom,Renault Clio,Drivetrain,Door,Combustion,Dealer
+OID-82666,Thoughtworks,Germany,Toyota Corolla,Fuse Box,Door,Electric,Direct
+OID-92428,Mydeo,Germany,Renault Clio,Brakes,Door,Hybrid,Unaffiliated Workshops
+OID-85270,Oyope,Netherlands,Dacia Sanedero,Spark Plug,Mirror,Electric,Dealer
+OID-66651,Reallinks,Austria,Toyota Corolla,Brakes,Radio,Combustion,Dealer
+OID-96045,Eamia,United Kingdom,Peugeot 208,Tires,Radio,Combustion,Dealer
+OID-58920,Mydeo,United Kingdom,Volkswagen Golf,Airbags,Roof,Combustion,Dealer
+OID-59050,Mydeo,Spain,Kia Niro,Headlights,Subwoofer,Electric,Dealer
+OID-84127,Thoughtworks,Germany,Hyundai Tucson,Brakes,Mirror,Combustion,Dealer
+OID-72563,Demivee,Germany,Skoda Octavia,Fuse Box,Door,Hybrid,Dealer
+OID-26021,Devify,United Kingdom,Hyundai Tucson,Chassis,Door,Electric,Unaffiliated Workshops
+OID-07352,Reallinks,Spain,Volkswagen Golf,Battery,Door,Electric,Unaffiliated Workshops
+OID-80944,Eamia,Romania,Fiat Panda,Brakes,Door,Combustion,Dealer
+OID-74387,Jaxspan,United Kingdom,Toyota Carolia,Tires,Roof,Hybrid,Unaffiliated Workshops
+OID-00678,Thoughtworks,Switzerland,Toyota Yaris,Airbags,Door,Combustion,Unaffiliated Workshops
+OID-05298,Mydeo,Germany,Toyota Carolia,Airbags,Radio,Electric,Dealer
+OID-61542,Thoughtworks,Netherlands,Volkswagen Golf,Airbags,Door,Combustion,Direct
+OID-65169,Thoughtworks,Netherlands,Toyota RAV4,Brakes,Door,Combustion,Dealer
+OID-63307,Thoughtworks,Netherlands,Hyundai Tucson,Tires,Subwoofer,Combustion,Dealer
+OID-87810,Jaxspan,Germany,Volkswagen Golf,Chassis,Alarm,Combustion,Direct
+OID-03791,Realbuzz,Spain,Fiat Panda,Thermostat,Mirror,Combustion,Unaffiliated Workshops
+OID-11321,Eamia,France,Peugeot 208,Chassis,Mirror,Combustion,Dealer
+OID-84862,Demivee,Germany,Audi e-Tron,Distributor,Door,Combustion,Direct
+OID-67199,Eamia,Romania,Audi e-Tron,Drivetrain,Radio,Combustion,Unaffiliated Workshops
+OID-75299,Avamm,Italy,Dacia Lodgy,Battery,Door,Combustion,Direct
+OID-92704,Demivee,France,Dacia Lodgy,Airbags,Roof,Combustion,Unaffiliated Workshops
+OID-59039,Skalith,Italy,Toyota RAV4,Drivetrain,Door,Hybrid,Dealer
+OID-79727,Devify,Romania,Dacia Lodgy,Tires,Door,Combustion,Dealer
+OID-13130,Pixope,Spain,Audi e-Tron,Drivetrain,Rims,Combustion,Unaffiliated Workshops
+OID-13995,Mydeo,Italy,Dacia Sanedero,Tires,Subwoofer,Electric,Direct
+OID-17445,Oyope,Germany,Toyota Carolia,Airbags,Door,Electric,Dealer
+OID-81631,Mydeo,Romania,Audi e-Tron,Tires,Door,Electric,Direct
+OID-38370,Realbuzz,United Kingdom,Kia Niro,Battery,Radio,Electric,Dealer
+OID-15335,Jaxspan,United Kingdom,Audi e-Tron,Airbags,Mirror,Combustion,Direct
+OID-49370,Thoughtworks,United Kingdom,Volkswagen Golf,Headlights,Radio,Combustion,Unaffiliated Workshops
+OID-38907,Thoughtworks,United Kingdom,Dacia Lodgy,Chassis,Alarm,Combustion,Unaffiliated Workshops
+OID-72552,Mynte,Italy,Fiat Panda,Fuse Box,Rims,Combustion,Unaffiliated Workshops
+OID-13880,Demivee,Germany,Dacia Sanedero,Distributor,Roof,Combustion,Unaffiliated Workshops
+OID-15731,Feedspan,Spain,Toyota Corolla,Tires,Mirror,Combustion,Dealer
+OID-28762,Jaxspan,Spain,Hyundai Tucson,Drivetrain,Bumper,Hybrid,Dealer
+OID-06033,Eamia,Germany,Dacia Lodgy,Fuse Box,GPS,Combustion,Unaffiliated Workshops
+OID-46984,Thoughtworks,Austria,Peugeot 208,Battery,Door,Combustion,Dealer
+OID-50916,Thoughtworks,Spain,Audi e-Tron,Tires,Alarm,Electric,Unaffiliated Workshops
+OID-14111,Mynte,Germany,Fiat Panda,Tires,Radio,Electric,Dealer
+OID-99862,Meembee,Germany,Dacia Lodgy,Drivetrain,Roof,Electric,Dealer
+OID-56104,Mynte,Germany,Fiat Panda,Battery,Mirror,Combustion,Unaffiliated Workshops
+OID-64825,Avamm,United Kingdom,Fiat Panda,Battery,Subwoofer,Electric,Direct
+OID-90964,Eamia,Germany,Skoda Octavia,Airbags,Mirror,Combustion,Dealer
+OID-78005,Jaxspan,United Kingdom,Toyota RAV4,Chassis,Rims,Combustion,Dealer
+OID-11518,Mydeo,Germany,Skoda Octavia,Gearbox,Speaker,Combustion,Dealer
+OID-99681,Devify,Germany,Audi e-Tron,Headlights,Rims,Combustion,Direct
+OID-96064,Eamia,Austria,Fiat Panda,Battery,Radio,Combustion,Direct
+OID-15440,Eamia,Austria,Skoda Octavia,Brakes,Alarm,Combustion,Dealer
+OID-16750,Pixope,Italy,Toyota RAV4,Battery,Alarm,Combustion,Dealer
+OID-34623,Trudoo,Italy,Toyota RAV4,Distributor,Roof,Hybrid,Dealer
+OID-40234,Eamia,Switzerland,Peugeot 208,Fuse Box,Door,Electric,Dealer
+OID-91548,Devify,Austria,Kia Niro,Tires,Roof,Combustion,Dealer
+OID-74116,Demivee,Spain,Skoda Octavia,Chassis,Radio,Combustion,Dealer
+OID-79180,Livepath,Italy,Volkswagen Golf,Tires,Mirror,Combustion,Dealer
+OID-68287,Mydeo,France,Dacia Lodgy,Brakes,Door,Combustion,Unaffiliated Workshops
+OID-87787,Thoughtworks,Germany,Dacia Sanedero,Chassis,Rims,Combustion,Dealer
+OID-72508,Eamia,United Kingdom,Toyota Carolia,Chassis,Door,Combustion,Unaffiliated Workshops
+OID-13412,Flashdog,Romania,Skoda Octavia,Battery,Roof,Combustion,Dealer
+OID-40664,Demivee,United Kingdom,Peugeot 208,Tires,GPS,Combustion,Unaffiliated Workshops
+OID-96922,Buzzdog,Netherlands,Kia Niro,Brakes,GPS,Combustion,Dealer
+OID-95038,Devify,Italy,Toyota Carolia,Tires,GPS,Combustion,Dealer
+OID-44555,Jaxspan,United Kingdom,Hyundai Tucson,Fuse Box,Video Player,Combustion,Direct
+OID-31853,Demivee,Italy,Toyota RAV4,Battery,Radio,Electric,Dealer
+OID-22714,Mynte,United Kingdom,Toyota RAV4,Battery,Door,Combustion,Dealer
+OID-03094,Dazzlesphere,United Kingdom,Kia Niro,Thermostat,Radio,Electric,Dealer
+OID-19517,Thoughtworks,Germany,Peugeot 208,Battery,Door,Combustion,Unaffiliated Workshops
+OID-50661,Thoughtworks,Netherlands,Toyota Yaris,Brakes,Mirror,Electric,Direct
+OID-62996,Demivee,Spain,Fiat Panda,Chassis,Roof,Combustion,Unaffiliated Workshops
+OID-64292,Oyope,Italy,Skoda Octavia,Fuse Box,Video Player,Electric,Dealer
+OID-29761,Thoughtworks,United Kingdom,Toyota Carolia,Gearbox,Radio,Combustion,Unaffiliated Workshops
+OID-95776,Mydeo,Austria,Peugeot 208,Battery,Roof,Combustion,Dealer
+OID-18976,Thoughtworks,Germany,Dacia Lodgy,Tires,Roof,Combustion,Unaffiliated Workshops
+OID-78420,Pixope,Germany,Kia Niro,Tires,Subwoofer,Combustion,Dealer
+OID-90405,Eamia,Germany,Toyota Carolia,Thermostat,Mirror,Electric,Dealer
+OID-92325,Thoughtworks,United Kingdom,Fiat Panda,Airbags,Radio,Electric,Unaffiliated Workshops
+OID-25230,Mydeo,Germany,Volkswagen Golf,Tires,GPS,Hybrid,Unaffiliated Workshops
+OID-96147,Eamia,Spain,Hyundai Tucson,Distributor,GPS,Combustion,Unaffiliated Workshops
+OID-14320,Avamm,Spain,Audi e-Tron,Tires,Door,Combustion,Dealer
+OID-36649,Mynte,Germany,Toyota Yaris,Brakes,Radio,Electric,Dealer
+OID-34774,Jaxspan,Germany,Skoda Octavia,Airbags,Roof,Combustion,Unaffiliated Workshops
+OID-54275,Jaxspan,United Kingdom,Toyota Corolla,Tires,Mirror,Combustion,Direct
+OID-33965,Meembee,Germany,Dacia Sanedero,Tires,Speaker,Electric,Dealer
+OID-84719,Mydeo,Romania,Renault Clio,Thermostat,Door,Combustion,Unaffiliated Workshops
+OID-40587,Thoughtworks,France,Dacia Lodgy,Ignition Box,Subwoofer,Combustion,Dealer
+OID-70187,Mydeo,France,Volkswagen Golf,Battery,Mirror,Combustion,Dealer
+OID-95666,Thoughtworks,United Kingdom,Toyota Carolia,Headlights,Alarm,Combustion,Dealer
+OID-60394,Feedspan,Germany,Skoda Octavia,Thermostat,Radio,Combustion,Direct
+OID-11504,Mydeo,Germany,Toyota RAV4,Brakes,Roof,Combustion,Unaffiliated Workshops
+OID-77783,Thoughtworks,Germany,Toyota RAV4,Battery,Radio,Combustion,Direct
+OID-27069,Devify,Italy,Audi e-Tron,Brakes,Rims,Combustion,Dealer
+OID-61245,Buzzdog,Germany,Fiat Panda,Airbags,Rims,Combustion,Unaffiliated Workshops
+OID-28284,Jaxspan,Spain,Dacia Lodgy,Headlights,Mirror,Electric,Unaffiliated Workshops
+OID-13833,Buzzdog,United Kingdom,Toyota Corolla,Headlights,Door,Electric,Dealer
+OID-63024,Mydeo,Germany,Audi e-Tron,Tires,Radio,Combustion,Dealer
+OID-38223,Thoughtworks,Germany,Toyota Carolia,Distributor,Roof,Electric,Unaffiliated Workshops
+OID-51382,Avamm,Germany,Fiat Panda,Drivetrain,Door,Combustion,Unaffiliated Workshops
+OID-32183,Buzzdog,Italy,Toyota Carolia,Tires,Bumper,Hybrid,Dealer
+OID-57190,Mynte,United Kingdom,Toyota Corolla,Thermostat,Door,Combustion,Unaffiliated Workshops
+OID-77476,Meembee,Germany,Toyota Carolia,Battery,Bumper,Combustion,Dealer
+OID-30418,Mydeo,France,Toyota Yaris,Headlights,Alarm,Combustion,Dealer
+OID-83069,Jaxspan,Germany,Hyundai Tucson,Airbags,Alarm,Combustion,Dealer
+OID-16095,Reallinks,Germany,Audi e-Tron,Brakes,Alarm,Electric,Dealer
+OID-34032,Mydeo,France,Volkswagen Golf,Headlights,Roof,Electric,Dealer
+OID-94270,Demivee,Spain,Toyota Carolia,Headlights,Rims,Combustion,Direct
+OID-62220,Eamia,Italy,Skoda Octavia,Thermostat,Door,Combustion,Unaffiliated Workshops
+OID-14766,Devify,Germany,Kia Niro,Battery,Roof,Combustion,Dealer
+OID-28805,Flashdog,Germany,Dacia Lodgy,Tires,Bumper,Combustion,Dealer
+OID-27329,Mydeo,United Kingdom,Peugeot 208,Tires,Mirror,Combustion,Dealer
+OID-80025,Skalith,Germany,Skoda Octavia,Gearbox,Door,Electric,Dealer
+OID-13530,Demivee,Spain,Toyota RAV4,Brakes,Radio,Electric,Dealer
+OID-66364,Reallinks,Germany,Toyota Yaris,Chassis,Mirror,Hybrid,Unaffiliated Workshops
+OID-47406,Dazzlesphere,United Kingdom,Skoda Octavia,Thermostat,Radio,Combustion,Dealer
+OID-88123,Eamia,France,Skoda Octavia,Tires,Roof,Hybrid,Dealer
+OID-59317,Jaxspan,Italy,Fiat Panda,Tires,GPS,Combustion,Dealer
+OID-27904,Thoughtworks,Italy,Toyota RAV4,Fuse Box,Mirror,Hybrid,Dealer
+OID-89009,Thoughtworks,France,Kia Niro,Fuse Box,Mirror,Electric,Dealer
+OID-11841,Reallinks,Spain,Toyota Carolia,Headlights,Door,Hybrid,Direct
+OID-81656,Meembee,Italy,Dacia Sanedero,Tires,Roof,Combustion,Dealer
+OID-16445,Jaxspan,Spain,Fiat Panda,Tires,Rims,Combustion,Dealer
+OID-45987,Mydeo,United Kingdom,Volkswagen Golf,Drivetrain,Mirror,Electric,Unaffiliated Workshops
+OID-81387,Devify,Romania,Renault Clio,Battery,Roof,Combustion,Dealer
+OID-61714,Devify,Germany,Volkswagen Golf,Brakes,Mirror,Combustion,Unaffiliated Workshops
+OID-72674,Thoughtworks,United Kingdom,Dacia Lodgy,Headlights,Speaker,Combustion,Unaffiliated Workshops
+OID-17029,Eamia,Netherlands,Volkswagen Golf,Distributor,Radio,Electric,Direct
+OID-36155,Buzzdog,Germany,Toyota RAV4,Airbags,Rims,Hybrid,Unaffiliated Workshops
+OID-65983,Mydeo,Germany,Renault Clio,Tires,Roof,Hybrid,Direct
+OID-01218,Devify,Germany,Toyota Yaris,Spark Plug,Alarm,Electric,Dealer
+OID-14593,Buzzdog,Austria,Toyota Yaris,Headlights,Radio,Electric,Dealer
+OID-42178,Jaxspan,Spain,Audi e-Tron,Headlights,Rims,Hybrid,Dealer
+OID-58505,Mydeo,Germany,Dacia Lodgy,Battery,Roof,Combustion,Dealer
+OID-23689,Mydeo,Germany,Fiat Panda,Chassis,Mirror,Combustion,Dealer
+OID-31984,Mydeo,Germany,Toyota Corolla,Thermostat,Mirror,Combustion,Unaffiliated Workshops
+OID-24982,Mydeo,France,Toyota Corolla,Gearbox,Radio,Combustion,Dealer
+OID-27816,Buzzdog,Germany,Skoda Octavia,Brakes,Speaker,Combustion,Unaffiliated Workshops
+OID-17931,Mydeo,Netherlands,Toyota Carolia,Airbags,Bumper,Combustion,Unaffiliated Workshops
+OID-06048,Demivee,Germany,Renault Clio,Radiator,Alarm,Combustion,Unaffiliated Workshops
+OID-27377,Thoughtworks,Romania,Fiat Panda,Thermostat,Roof,Hybrid,Direct
+OID-60483,Flashdog,Netherlands,Toyota Carolia,Chassis,Alarm,Combustion,Unaffiliated Workshops
+OID-32623,Devify,Romania,Toyota Corolla,Spark Plug,Bumper,Combustion,Dealer
+OID-34104,Jaxspan,United Kingdom,Renault Clio,Fuse Box,Roof,Combustion,Unaffiliated Workshops
+OID-73827,Izio,Italy,Toyota RAV4,Battery,Mirror,Combustion,Dealer
+OID-21796,Skalith,Romania,Toyota Carolia,Airbags,Bumper,Combustion,Dealer
+OID-46834,Mydeo,Germany,Skoda Octavia,Chassis,Radio,Electric,Dealer
+OID-31133,Jaxspan,Spain,Fiat Panda,Thermostat,Roof,Electric,Unaffiliated Workshops
+OID-22805,Devify,Germany,Toyota Carolia,Fuse Box,Door,Combustion,Unaffiliated Workshops
+OID-85620,Jaxspan,Austria,Toyota RAV4,Brakes,Alarm,Combustion,Dealer
+OID-25661,Devify,Netherlands,Toyota RAV4,Airbags,Door,Combustion,Dealer
+OID-87793,Eamia,Italy,Toyota Yaris,Fuse Box,Mirror,Combustion,Dealer
+OID-11008,Thoughtworks,France,Toyota Carolia,Battery,Alarm,Combustion,Dealer
+OID-81819,Mydeo,Germany,Dacia Lodgy,Fuse Box,Roof,Hybrid,Direct
+OID-02983,Devify,France,Toyota RAV4,Distributor,Mirror,Electric,Dealer
+OID-60200,Eamia,Austria,Toyota Carolia,Spark Plug,Speaker,Combustion,Direct
+OID-44893,Mydeo,Germany,Volkswagen Golf,Spark Plug,Roof,Electric,Dealer
+OID-60840,Eamia,United Kingdom,Volkswagen Golf,Battery,Radio,Combustion,Unaffiliated Workshops
+OID-95767,Thoughtworks,Switzerland,Toyota Yaris,Gearbox,Radio,Hybrid,Dealer
+OID-63322,Oyope,Germany,Toyota Corolla,Thermostat,Door,Combustion,Unaffiliated Workshops
+OID-58963,Mynte,Germany,Renault Clio,Fuse Box,Speaker,Electric,Dealer
+OID-83693,Jaxspan,United Kingdom,Renault Clio,Airbags,Mirror,Electric,Unaffiliated Workshops
+OID-90252,Mydeo,Germany,Dacia Sanedero,Fuse Box,Radio,Electric,Direct
+OID-63902,Thoughtworks,Germany,Toyota Carolia,Battery,Door,Combustion,Dealer
+OID-09130,Reallinks,Spain,Toyota Yaris,Drivetrain,Roof,Hybrid,Dealer
+OID-15615,Mynte,United Kingdom,Toyota RAV4,Thermostat,Mirror,Hybrid,Direct
+OID-26046,Mydeo,United Kingdom,Hyundai Tucson,Battery,Door,Electric,Unaffiliated Workshops
+OID-65817,Eamia,Germany,Renault Clio,Tires,Door,Combustion,Dealer
+OID-71262,Thoughtworks,Netherlands,Toyota Yaris,Tires,Rims,Combustion,Dealer
+OID-24927,Eamia,Germany,Dacia Sanedero,Gearbox,Video Player,Hybrid,Dealer
+OID-70035,Thoughtworks,France,Dacia Sanedero,Tires,Radio,Combustion,Dealer
+OID-97722,Eamia,Germany,Skoda Octavia,Drivetrain,GPS,Combustion,Direct
+OID-39178,Thoughtworks,Germany,Toyota Corolla,Tires,Bumper,Hybrid,Dealer
+OID-46400,Eamia,Germany,Toyota Yaris,Thermostat,Bumper,Hybrid,Unaffiliated Workshops
+OID-81411,Jaxspan,United Kingdom,Renault Clio,Gearbox,Roof,Combustion,Dealer
+OID-71415,Thoughtworks,United Kingdom,Toyota Yaris,Battery,Radio,Hybrid,Dealer
+OID-31398,Demivee,France,Toyota Corolla,Airbags,Roof,Electric,Unaffiliated Workshops
+OID-27225,Flipstorm,United Kingdom,Dacia Sanedero,Battery,Roof,Combustion,Direct
+OID-78292,Mydeo,United Kingdom,Volkswagen Golf,Chassis,Radio,Combustion,Dealer
+OID-59984,Pixope,United Kingdom,Audi e-Tron,Tires,Door,Combustion,Dealer
+OID-28348,Mydeo,Spain,Toyota Corolla,Fuse Box,Mirror,Electric,Dealer
+OID-78994,Avamm,France,Skoda Octavia,Headlights,GPS,Combustion,Dealer
+OID-86021,Devify,United Kingdom,Audi e-Tron,Battery,Alarm,Combustion,Dealer
+OID-78133,Thoughtworks,Austria,Renault Clio,Battery,Radio,Electric,Direct
+OID-83484,Mynte,Spain,Fiat Panda,Tires,Rims,Combustion,Direct
+OID-21839,Jaxspan,Spain,Dacia Lodgy,Chassis,Door,Combustion,Dealer
+OID-44209,Livepath,United Kingdom,Toyota Corolla,Airbags,Roof,Combustion,Dealer
+OID-35184,Devify,Germany,Skoda Octavia,Drivetrain,Door,Combustion,Dealer
+OID-05756,Demivee,Germany,Fiat Panda,Airbags,Mirror,Hybrid,Dealer
+OID-42204,Demivee,Spain,Fiat Panda,Headlights,Door,Electric,Direct
+OID-11027,Eamia,Switzerland,Kia Niro,Chassis,Mirror,Combustion,Unaffiliated Workshops
+OID-96721,Devify,United Kingdom,Toyota Corolla,Battery,Mirror,Combustion,Dealer
+OID-50990,Thoughtworks,United Kingdom,Renault Clio,Headlights,Speaker,Combustion,Direct
+OID-42184,Thoughtworks,United Kingdom,Audi e-Tron,Fuse Box,Alarm,Combustion,Dealer
+OID-01585,Mynte,Spain,Skoda Octavia,Battery,Door,Combustion,Unaffiliated Workshops
+OID-42610,Eamia,Germany,Dacia Sanedero,Spark Plug,Bumper,Electric,Unaffiliated Workshops
+OID-11232,Mydeo,Spain,Kia Niro,Brakes,Speaker,Combustion,Dealer
+OID-74335,Reallinks,United Kingdom,Skoda Octavia,Airbags,Rims,Combustion,Dealer
+OID-45827,Avamm,Romania,Kia Niro,Drivetrain,Door,Electric,Direct
+OID-23410,Thoughtworks,Germany,Toyota Yaris,Thermostat,GPS,Combustion,Dealer
+OID-30801,Mynte,United Kingdom,Volkswagen Golf,Battery,Rims,Combustion,Dealer
+OID-50800,Jaxspan,Germany,Hyundai Tucson,Battery,Alarm,Electric,Unaffiliated Workshops
+OID-00678,Thoughtworks,Spain,Toyota Corolla,Battery,Door,Hybrid,Dealer
+OID-76986,Eamia,United Kingdom,Kia Niro,Drivetrain,Speaker,Combustion,Dealer
+OID-21843,Demivee,United Kingdom,Volkswagen Golf,Chassis,GPS,Combustion,Unaffiliated Workshops
+OID-33058,Reallinks,United Kingdom,Audi e-Tron,Fuse Box,Mirror,Combustion,Unaffiliated Workshops
+OID-28260,Meembee,Romania,Toyota Corolla,Tires,Radio,Combustion,Unaffiliated Workshops
+OID-53943,Mynte,United Kingdom,Fiat Panda,Chassis,Roof,Electric,Direct
+OID-74498,Eamia,Germany,Hyundai Tucson,Thermostat,Alarm,Combustion,Unaffiliated Workshops
+OID-21258,Mydeo,United Kingdom,Toyota Yaris,Airbags,Mirror,Combustion,Unaffiliated Workshops
+OID-21315,Eamia,Spain,Toyota RAV4,Tires,Mirror,Combustion,Direct
+OID-69977,Thoughtworks,Spain,Hyundai Tucson,Chassis,Radio,Electric,Unaffiliated Workshops
+OID-64147,Devify,Germany,Toyota Carolia,Spark Plug,Mirror,Electric,Dealer
+OID-05147,Thoughtworks,Germany,Peugeot 208,Tires,Mirror,Combustion,Unaffiliated Workshops
+OID-08370,Devify,Germany,Audi e-Tron,Headlights,Radio,Combustion,Unaffiliated Workshops
+OID-92931,Devify,Netherlands,Volkswagen Golf,Spark Plug,Mirror,Combustion,Unaffiliated Workshops
+OID-73862,Buzzdog,Germany,Skoda Octavia,Airbags,Door,Combustion,Dealer
+OID-11269,Mydeo,France,Hyundai Tucson,Headlights,Roof,Combustion,Dealer
+OID-68464,Reallinks,Spain,Dacia Sanedero,Ignition Box,Mirror,Combustion,Unaffiliated Workshops
+OID-24966,Devify,United Kingdom,Toyota RAV4,Battery,Subwoofer,Combustion,Direct
+OID-34136,Thoughtworks,Italy,Dacia Lodgy,Drivetrain,Mirror,Combustion,Unaffiliated Workshops
+OID-60279,Thoughtworks,France,Skoda Octavia,Radiator,Door,Combustion,Dealer
+OID-82269,Thoughtworks,Germany,Kia Niro,Tires,Mirror,Electric,Unaffiliated Workshops
+OID-36675,Devify,Italy,Toyota Yaris,Brakes,Mirror,Combustion,Dealer
+OID-84363,Thoughtworks,Romania,Toyota Carolia,Tires,Radio,Combustion,Dealer
+OID-98086,Mydeo,Spain,Toyota Corolla,Airbags,Mirror,Combustion,Dealer
+OID-36525,Devify,Italy,Volkswagen Golf,Tires,Radio,Combustion,Unaffiliated Workshops
+OID-60020,Thoughtworks,Netherlands,Kia Niro,Chassis,Mirror,Combustion,Unaffiliated Workshops
+OID-01222,Jaxspan,Romania,Skoda Octavia,Tires,Subwoofer,Electric,Dealer
+OID-93313,Thoughtworks,Spain,Peugeot 208,Tires,Alarm,Combustion,Unaffiliated Workshops
+OID-13397,Eamia,Italy,Peugeot 208,Fuse Box,Door,Combustion,Dealer
+OID-14080,Eamia,Spain,Dacia Sanedero,Battery,Speaker,Electric,Dealer
+OID-89304,Thoughtworks,Italy,Renault Clio,Headlights,Video Player,Combustion,Dealer
+OID-77824,Mydeo,United Kingdom,Toyota Carolia,Fuse Box,Radio,Combustion,Dealer
+OID-89341,Devify,Austria,Toyota Corolla,Battery,Roof,Electric,Dealer
+OID-59385,Thoughtworks,Spain,Toyota Corolla,Headlights,Alarm,Combustion,Dealer
+OID-88919,Jaxspan,United Kingdom,Toyota Carolia,Distributor,Alarm,Combustion,Direct
+OID-22084,Jaxspan,Romania,Toyota Carolia,Thermostat,Door,Combustion,Direct
+OID-07576,Thoughtworks,Germany,Audi e-Tron,Gearbox,Roof,Combustion,Dealer
+OID-82681,Eamia,United Kingdom,Audi e-Tron,Headlights,Mirror,Combustion,Dealer
+OID-27863,Eamia,France,Fiat Panda,Tires,Door,Electric,Unaffiliated Workshops
+OID-70816,Jaxspan,United Kingdom,Toyota RAV4,Thermostat,Door,Electric,Unaffiliated Workshops
+OID-06362,Demivee,France,Toyota Yaris,Tires,Door,Combustion,Dealer
+OID-67939,Skalith,Germany,Renault Clio,Tires,Radio,Electric,Dealer
+OID-23173,Skalith,Italy,Toyota Yaris,Gearbox,Roof,Hybrid,Dealer
+OID-58381,Eamia,France,Fiat Panda,Battery,Radio,Electric,Unaffiliated Workshops
+OID-39626,Eamia,Netherlands,Dacia Sanedero,Battery,Roof,Hybrid,Dealer
+OID-17287,Jaxspan,Germany,Volkswagen Golf,Battery,Mirror,Combustion,Unaffiliated Workshops
+OID-69978,Buzzdog,Germany,Toyota Yaris,Chassis,Subwoofer,Combustion,Dealer
+OID-49667,Thoughtworks,Austria,Toyota Yaris,Headlights,GPS,Hybrid,Dealer
+OID-05292,Devify,Italy,Toyota Corolla,Thermostat,GPS,Combustion,Unaffiliated Workshops
+OID-45892,Oyope,Germany,Kia Niro,Headlights,Door,Electric,Dealer
+OID-20951,Dazzlesphere,France,Hyundai Tucson,Headlights,Mirror,Hybrid,Dealer
+OID-44306,Thoughtworks,Germany,Toyota RAV4,Airbags,Speaker,Combustion,Direct
+OID-58054,Devify,Germany,Skoda Octavia,Drivetrain,Mirror,Electric,Dealer
+OID-19437,Jaxspan,Romania,Toyota RAV4,Thermostat,Alarm,Combustion,Dealer
+OID-92781,Oyope,Italy,Hyundai Tucson,Fuse Box,Speaker,Combustion,Dealer
+OID-89356,Devify,Switzerland,Toyota Yaris,Headlights,Mirror,Combustion,Direct
+OID-12327,Jaxspan,Italy,Toyota Yaris,Tires,Alarm,Hybrid,Direct
+OID-42458,Mydeo,Germany,Toyota Carolia,Fuse Box,Mirror,Combustion,Dealer
+OID-79075,Eamia,Italy,Fiat Panda,Drivetrain,Radio,Combustion,Dealer
+OID-03776,Meembee,Germany,Dacia Sanedero,Tires,Door,Combustion,Dealer
+OID-71219,Meembee,Germany,Kia Niro,Airbags,Video Player,Combustion,Dealer
+OID-54999,Thoughtworks,Germany,Skoda Octavia,Chassis,GPS,Combustion,Unaffiliated Workshops
+OID-63158,Flashdog,Netherlands,Hyundai Tucson,Fuse Box,Rims,Combustion,Dealer
+OID-45973,Devify,France,Toyota Yaris,Chassis,Mirror,Combustion,Dealer
+OID-45164,Mydeo,Germany,Toyota Carolia,Thermostat,Door,Combustion,Direct
+OID-21986,Mynte,Germany,Toyota RAV4,Battery,Mirror,Combustion,Direct
+OID-86299,Eamia,Spain,Peugeot 208,Battery,Speaker,Electric,Dealer
+OID-76251,Eamia,Germany,Dacia Sanedero,Chassis,Roof,Electric,Direct
+OID-81441,Demivee,Germany,Hyundai Tucson,Distributor,GPS,Combustion,Dealer
+OID-13145,Mydeo,Germany,Toyota Corolla,Fuse Box,Speaker,Combustion,Unaffiliated Workshops
+OID-61363,Thoughtworks,Netherlands,Peugeot 208,Battery,Mirror,Combustion,Unaffiliated Workshops
+OID-12231,Mydeo,Germany,Peugeot 208,Brakes,Mirror,Combustion,Dealer
+OID-11114,Thoughtworks,United Kingdom,Kia Niro,Radiator,Roof,Electric,Dealer
+OID-56637,Buzzdog,United Kingdom,Dacia Lodgy,Tires,Radio,Combustion,Direct
+OID-24495,Thoughtworks,Italy,Hyundai Tucson,Airbags,Radio,Combustion,Direct
+OID-86213,Eamia,Italy,Dacia Sanedero,Gearbox,Mirror,Hybrid,Dealer
+OID-39332,Mydeo,Romania,Toyota Yaris,Thermostat,Speaker,Combustion,Dealer
+OID-43767,Reallinks,Germany,Hyundai Tucson,Brakes,GPS,Electric,Unaffiliated Workshops
+OID-50247,Thoughtworks,Germany,Peugeot 208,Headlights,GPS,Combustion,Dealer
+OID-17159,Devify,Romania,Volkswagen Golf,Thermostat,Alarm,Combustion,Unaffiliated Workshops
+OID-03387,Eamia,Spain,Toyota Yaris,Airbags,Alarm,Combustion,Dealer
+OID-95900,Mynte,Germany,Toyota Carolia,Fuse Box,Door,Combustion,Dealer
+OID-33865,Feedspan,United Kingdom,Fiat Panda,Brakes,Mirror,Combustion,Unaffiliated Workshops
+OID-33793,Oyope,Germany,Renault Clio,Drivetrain,Radio,Combustion,Direct
+OID-47483,Buzzdog,United Kingdom,Dacia Sanedero,Fuse Box,Roof,Combustion,Dealer
+OID-64775,Eamia,Italy,Audi e-Tron,Battery,Door,Combustion,Direct
+OID-69102,Eamia,Austria,Renault Clio,Chassis,Alarm,Combustion,Dealer
+OID-33616,Demivee,Romania,Peugeot 208,Tires,Speaker,Electric,Dealer
+OID-41658,Meembee,France,Hyundai Tucson,Tires,GPS,Combustion,Unaffiliated Workshops
+OID-10064,Eamia,United Kingdom,Dacia Lodgy,Spark Plug,Speaker,Combustion,Unaffiliated Workshops
+OID-21326,Buzzdog,United Kingdom,Toyota Carolia,Distributor,Mirror,Hybrid,Dealer
+OID-72086,Devify,Germany,Kia Niro,Radiator,Roof,Combustion,Dealer
+OID-98310,Mydeo,Netherlands,Peugeot 208,Battery,Alarm,Combustion,Direct
+OID-99052,Realbuzz,Germany,Hyundai Tucson,Gearbox,Video Player,Combustion,Unaffiliated Workshops
+OID-10332,Eamia,Romania,Peugeot 208,Drivetrain,Bumper,Combustion,Dealer
+OID-28778,Thoughtworks,Italy,Renault Clio,Thermostat,Roof,Combustion,Dealer
+OID-30436,Realbuzz,United Kingdom,Renault Clio,Airbags,Mirror,Combustion,Dealer
+OID-36836,Devify,Italy,Peugeot 208,Chassis,Mirror,Electric,Dealer
+OID-78414,Buzzdog,Switzerland,Hyundai Tucson,Drivetrain,Bumper,Combustion,Unaffiliated Workshops
+OID-42567,Eamia,United Kingdom,Toyota Corolla,Headlights,Mirror,Combustion,Direct
+OID-38111,Meembee,United Kingdom,Dacia Sanedero,Gearbox,Mirror,Combustion,Dealer
+OID-22915,Devify,France,Fiat Panda,Gearbox,Roof,Electric,Dealer
+OID-92811,Dazzlesphere,Italy,Kia Niro,Airbags,Rims,Combustion,Unaffiliated Workshops
+OID-98058,Realbuzz,Germany,Toyota Carolia,Battery,Roof,Combustion,Direct
+OID-51525,Jaxspan,Switzerland,Fiat Panda,Headlights,Door,Combustion,Direct
+OID-56488,Jaxspan,France,Renault Clio,Tires,Subwoofer,Combustion,Unaffiliated Workshops
+OID-71640,Devify,United Kingdom,Toyota Corolla,Headlights,Door,Hybrid,Dealer
+OID-62584,Skalith,United Kingdom,Toyota Corolla,Fuse Box,Mirror,Combustion,Dealer
+OID-66311,Demivee,United Kingdom,Volkswagen Golf,Thermostat,Mirror,Combustion,Dealer
+OID-38511,Devify,Austria,Volkswagen Golf,Tires,Door,Electric,Direct
+OID-47366,Thoughtworks,Italy,Toyota Carolia,Airbags,Mirror,Combustion,Dealer
+OID-42448,Skalith,United Kingdom,Skoda Octavia,Thermostat,Rims,Combustion,Direct
+OID-27061,Devify,Germany,Fiat Panda,Chassis,Subwoofer,Hybrid,Direct
+OID-31238,Mydeo,Germany,Audi e-Tron,Airbags,Door,Combustion,Direct
+OID-44802,Eamia,France,Skoda Octavia,Thermostat,Roof,Combustion,Unaffiliated Workshops
+OID-00626,Meembee,United Kingdom,Audi e-Tron,Distributor,Door,Combustion,Dealer
+OID-47615,Eamia,Germany,Dacia Sanedero,Drivetrain,Mirror,Combustion,Dealer
+OID-12241,Skalith,Italy,Fiat Panda,Airbags,Rims,Combustion,Dealer
+OID-44392,Eamia,Romania,Hyundai Tucson,Distributor,Alarm,Combustion,Dealer
+OID-28461,Eamia,Germany,Hyundai Tucson,Distributor,Door,Combustion,Dealer
+OID-66586,Eamia,Italy,Audi e-Tron,Battery,Mirror,Combustion,Unaffiliated Workshops
+OID-77112,Mynte,Netherlands,Toyota Carolia,Battery,Door,Combustion,Unaffiliated Workshops
+OID-06581,Thoughtworks,United Kingdom,Dacia Sanedero,Airbags,Radio,Hybrid,Dealer
+OID-51405,Thoughtworks,Germany,Renault Clio,Brakes,Bumper,Combustion,Unaffiliated Workshops
+OID-38366,Buzzdog,United Kingdom,Volkswagen Golf,Battery,Door,Electric,Dealer
+OID-96238,Demivee,United Kingdom,Skoda Octavia,Headlights,Roof,Combustion,Unaffiliated Workshops
+OID-25938,Demivee,United Kingdom,Audi e-Tron,Battery,Alarm,Combustion,Dealer
+OID-24348,Eamia,United Kingdom,Fiat Panda,Fuse Box,Roof,Combustion,Dealer
+OID-53942,Thoughtworks,United Kingdom,Toyota RAV4,Chassis,Roof,Hybrid,Unaffiliated Workshops
+OID-62689,Mydeo,Germany,Skoda Octavia,Brakes,Door,Electric,Direct
+OID-97254,Flashdog,Netherlands,Skoda Octavia,Chassis,Subwoofer,Combustion,Dealer
+OID-00243,Thoughtworks,Italy,Dacia Sanedero,Headlights,Alarm,Combustion,Dealer
+OID-94503,Devify,Germany,Hyundai Tucson,Brakes,Mirror,Combustion,Unaffiliated Workshops
+OID-86094,Thoughtworks,United Kingdom,Peugeot 208,Tires,Roof,Combustion,Dealer
+OID-07335,Thoughtworks,Germany,Toyota Carolia,Brakes,Mirror,Combustion,Unaffiliated Workshops
+OID-35513,Demivee,France,Renault Clio,Fuse Box,Roof,Combustion,Dealer
+OID-34606,Demivee,Spain,Audi e-Tron,Chassis,Rims,Combustion,Dealer
+OID-42981,Mydeo,Italy,Dacia Lodgy,Spark Plug,Radio,Combustion,Unaffiliated Workshops
+OID-39832,Mydeo,Netherlands,Toyota Yaris,Airbags,GPS,Hybrid,Dealer
+OID-07234,Eamia,United Kingdom,Dacia Lodgy,Airbags,Door,Hybrid,Unaffiliated Workshops
+OID-16372,Devify,Germany,Renault Clio,Tires,GPS,Combustion,Dealer
+OID-73317,Mydeo,Germany,Kia Niro,Airbags,Door,Combustion,Dealer
+OID-10963,Reallinks,Germany,Volkswagen Golf,Battery,Mirror,Combustion,Dealer
+OID-80015,Avamm,United Kingdom,Volkswagen Golf,Battery,Roof,Combustion,Dealer
+OID-68866,Eamia,Netherlands,Toyota RAV4,Tires,Mirror,Combustion,Dealer
+OID-25230,Livepath,Germany,Toyota Carolia,Airbags,Bumper,Electric,Dealer
+OID-00804,Thoughtworks,France,Dacia Sanedero,Tires,Bumper,Combustion,Dealer
+OID-90165,Devify,Romania,Volkswagen Golf,Tires,Mirror,Electric,Dealer
+OID-96676,Jaxspan,Italy,Toyota RAV4,Tires,Speaker,Combustion,Unaffiliated Workshops
+OID-39046,Thoughtworks,Spain,Toyota RAV4,Airbags,Roof,Electric,Dealer
+OID-01066,Eamia,United Kingdom,Dacia Sanedero,Drivetrain,Rims,Combustion,Dealer
+OID-44214,Eamia,Spain,Peugeot 208,Fuse Box,Mirror,Electric,Dealer
+OID-00747,Skalith,Germany,Skoda Octavia,Fuse Box,Rims,Electric,Dealer
+OID-11371,Eamia,United Kingdom,Hyundai Tucson,Spark Plug,Roof,Hybrid,Dealer
+OID-79288,Thoughtworks,Italy,Volkswagen Golf,Headlights,Roof,Electric,Dealer
+OID-61336,Eamia,Italy,Toyota Yaris,Battery,Mirror,Combustion,Unaffiliated Workshops
+OID-79941,Realbuzz,United Kingdom,Kia Niro,Battery,Mirror,Combustion,Dealer
+OID-65214,Mydeo,United Kingdom,Toyota Yaris,Chassis,Speaker,Combustion,Dealer
+OID-65535,Demivee,Germany,Kia Niro,Headlights,Door,Electric,Unaffiliated Workshops
+OID-10374,Demivee,Germany,Dacia Sanedero,Fuse Box,Mirror,Combustion,Dealer
+OID-92716,Thoughtworks,Italy,Kia Niro,Gearbox,Door,Electric,Dealer
+OID-88237,Reallinks,United Kingdom,Fiat Panda,Tires,Radio,Combustion,Unaffiliated Workshops
+OID-49195,Skalith,United Kingdom,Toyota Carolia,Airbags,Rims,Electric,Unaffiliated Workshops
+OID-64785,Demivee,France,Toyota Yaris,Drivetrain,Radio,Electric,Unaffiliated Workshops
+OID-50718,Eamia,Romania,Toyota RAV4,Tires,Mirror,Electric,Direct
+OID-77027,Flipstorm,Germany,Toyota Yaris,Battery,Radio,Combustion,Dealer
+OID-22558,Thoughtworks,Germany,Audi e-Tron,Airbags,Door,Combustion,Direct
+OID-07307,Eamia,Austria,Hyundai Tucson,Fuse Box,Mirror,Electric,Unaffiliated Workshops
+OID-12288,Thoughtworks,Austria,Toyota RAV4,Airbags,Alarm,Combustion,Dealer
+OID-82922,Devify,Germany,Volkswagen Golf,Gearbox,Mirror,Combustion,Dealer
+OID-86669,Thoughtworks,Germany,Peugeot 208,Brakes,Door,Combustion,Dealer
+OID-53531,Thoughtworks,United Kingdom,Toyota Carolia,Chassis,Mirror,Combustion,Dealer
+OID-17459,Eamia,Romania,Volkswagen Golf,Tires,Roof,Combustion,Unaffiliated Workshops
+OID-03785,Thoughtworks,Germany,Volkswagen Golf,Tires,GPS,Combustion,Unaffiliated Workshops
+OID-52175,Devify,United Kingdom,Toyota Yaris,Battery,Bumper,Electric,Dealer
+OID-35991,Thoughtworks,Italy,Dacia Sanedero,Thermostat,Rims,Electric,Unaffiliated Workshops
+OID-37979,Buzzdog,Netherlands,Dacia Sanedero,Airbags,Mirror,Combustion,Direct
+OID-34178,Eamia,United Kingdom,Audi e-Tron,Airbags,Radio,Combustion,Dealer
+OID-52913,Oyope,Netherlands,Dacia Sanedero,Chassis,GPS,Hybrid,Dealer
+OID-58147,Thoughtworks,United Kingdom,Toyota Corolla,Gearbox,Door,Combustion,Dealer
+OID-38175,Thoughtworks,United Kingdom,Renault Clio,Headlights,Door,Electric,Unaffiliated Workshops
+OID-79984,Pixope,United Kingdom,Toyota RAV4,Chassis,Bumper,Combustion,Unaffiliated Workshops
+OID-80437,Thoughtworks,Austria,Toyota Carolia,Brakes,Door,Combustion,Dealer
+OID-48906,Eamia,Germany,Audi e-Tron,Gearbox,Roof,Combustion,Dealer
+OID-68034,Jaxspan,Italy,Toyota Carolia,Headlights,Mirror,Combustion,Dealer
+OID-55813,Devify,Germany,Dacia Lodgy,Airbags,Mirror,Combustion,Dealer
+OID-15161,Eamia,Spain,Peugeot 208,Battery,Door,Electric,Dealer
+OID-09003,Jaxspan,Germany,Toyota Yaris,Battery,Rims,Combustion,Unaffiliated Workshops
+OID-73836,Devify,Germany,Toyota Yaris,Tires,Door,Combustion,Dealer
+OID-00074,Demivee,United Kingdom,Hyundai Tucson,Battery,Speaker,Combustion,Dealer
+OID-34418,Thoughtworks,France,Kia Niro,Headlights,Radio,Combustion,Unaffiliated Workshops
+OID-96204,Devify,Spain,Dacia Sanedero,Tires,Roof,Combustion,Unaffiliated Workshops
+OID-31440,Skalith,Germany,Dacia Sanedero,Tires,Door,Combustion,Dealer
+OID-89648,Dazzlesphere,Spain,Volkswagen Golf,Airbags,Speaker,Combustion,Dealer
+OID-39971,Devify,Spain,Toyota Corolla,Battery,Rims,Combustion,Dealer
+OID-50719,Jaxspan,United Kingdom,Toyota Yaris,Thermostat,Alarm,Combustion,Dealer
+OID-05348,Mynte,United Kingdom,Skoda Octavia,Tires,Mirror,Electric,Dealer
+OID-65877,Eamia,United Kingdom,Volkswagen Golf,Chassis,Radio,Combustion,Dealer
+OID-84213,Feedspan,Germany,Kia Niro,Tires,Radio,Combustion,Dealer
+OID-11241,Skalith,Italy,Toyota Corolla,Headlights,Mirror,Combustion,Dealer
+OID-00042,Mydeo,Germany,Toyota Carolia,Drivetrain,Radio,Combustion,Unaffiliated Workshops
+OID-07850,Eamia,Germany,Toyota Yaris,Airbags,Mirror,Electric,Dealer
+OID-76818,Livepath,Germany,Hyundai Tucson,Battery,Radio,Combustion,Unaffiliated Workshops
+OID-81531,Dazzlesphere,France,Fiat Panda,Chassis,Mirror,Combustion,Direct
+OID-92746,Meembee,Netherlands,Skoda Octavia,Headlights,Door,Combustion,Dealer
+OID-12527,Flashdog,Spain,Toyota Carolia,Spark Plug,Rims,Combustion,Dealer
+OID-16948,Mynte,United Kingdom,Toyota Carolia,Battery,Door,Combustion,Unaffiliated Workshops
+OID-66654,Thoughtworks,Germany,Skoda Octavia,Spark Plug,Mirror,Combustion,Dealer
+OID-18694,Thoughtworks,Germany,Dacia Lodgy,Airbags,Door,Combustion,Unaffiliated Workshops
+OID-57194,Devify,Germany,Fiat Panda,Chassis,Mirror,Combustion,Dealer
+OID-17793,Jaxspan,Germany,Kia Niro,Tires,Mirror,Combustion,Unaffiliated Workshops
+OID-08061,Skalith,Italy,Toyota Corolla,Tires,Roof,Combustion,Unaffiliated Workshops
+OID-50919,Eamia,Romania,Toyota Carolia,Brakes,Rims,Combustion,Dealer
+OID-44183,Jaxspan,Germany,Toyota Carolia,Tires,Roof,Combustion,Direct
+OID-41328,Jaxspan,Italy,Hyundai Tucson,Airbags,Mirror,Combustion,Unaffiliated Workshops
+OID-51094,Mydeo,Romania,Hyundai Tucson,Tires,Speaker,Combustion,Direct
+OID-74609,Reallinks,United Kingdom,Peugeot 208,Thermostat,Roof,Combustion,Dealer
+OID-60483,Demivee,Germany,Renault Clio,Brakes,Alarm,Combustion,Direct
+OID-39468,Jaxspan,Romania,Toyota Yaris,Brakes,Mirror,Hybrid,Unaffiliated Workshops
+OID-72405,Demivee,France,Toyota RAV4,Brakes,Speaker,Combustion,Dealer
+OID-63723,Avamm,United Kingdom,Kia Niro,Battery,Speaker,Combustion,Dealer
+OID-64213,Devify,Germany,Toyota Corolla,Fuse Box,Mirror,Combustion,Direct
+OID-49560,Devify,Germany,Peugeot 208,Chassis,Alarm,Combustion,Unaffiliated Workshops
+OID-80205,Feedspan,Germany,Skoda Octavia,Tires,Radio,Combustion,Unaffiliated Workshops
+OID-89171,Devify,Switzerland,Kia Niro,Battery,Door,Hybrid,Dealer
+OID-26324,Thoughtworks,Germany,Renault Clio,Chassis,Radio,Combustion,Dealer
+OID-40259,Thoughtworks,Germany,Toyota Carolia,Distributor,Bumper,Combustion,Unaffiliated Workshops
+OID-96930,Eamia,Austria,Dacia Sanedero,Headlights,Rims,Combustion,Direct
+OID-47397,Eamia,Spain,Skoda Octavia,Battery,Door,Combustion,Dealer
+OID-54266,Eamia,United Kingdom,Fiat Panda,Tires,Mirror,Combustion,Dealer
+OID-66808,Eamia,United Kingdom,Renault Clio,Spark Plug,Mirror,Combustion,Dealer
+OID-61336,Jaxspan,Germany,Dacia Lodgy,Fuse Box,Door,Electric,Dealer
+OID-37412,Mydeo,Romania,Toyota Carolia,Headlights,Mirror,Electric,Dealer
+OID-05307,Flashdog,Germany,Kia Niro,Headlights,Speaker,Combustion,Dealer
+OID-73278,Eamia,Netherlands,Volkswagen Golf,Brakes,Mirror,Combustion,Dealer
+OID-69731,Eamia,Romania,Dacia Sanedero,Chassis,Door,Combustion,Dealer
+OID-44246,Mydeo,Germany,Dacia Sanedero,Tires,Door,Combustion,Dealer
+OID-40329,Devify,France,Dacia Sanedero,Battery,GPS,Combustion,Dealer
+OID-29863,Thoughtworks,Italy,Toyota Corolla,Fuse Box,Mirror,Combustion,Dealer
+OID-15336,Eamia,France,Dacia Lodgy,Tires,GPS,Combustion,Dealer
+OID-24403,Devify,Germany,Kia Niro,Fuse Box,Door,Combustion,Direct
+OID-71948,Devify,Germany,Fiat Panda,Battery,Door,Combustion,Dealer
+OID-29181,Thoughtworks,United Kingdom,Toyota Carolia,Fuse Box,Video Player,Combustion,Dealer
+OID-57360,Devify,Germany,Fiat Panda,Ignition Box,GPS,Combustion,Direct
+OID-49040,Devify,Germany,Toyota RAV4,Airbags,Subwoofer,Hybrid,Dealer
+OID-96110,Eamia,Germany,Dacia Sanedero,Brakes,Mirror,Combustion,Direct
+OID-26039,Thoughtworks,Germany,Fiat Panda,Battery,Roof,Combustion,Unaffiliated Workshops
+OID-89984,Livepath,Germany,Fiat Panda,Radiator,Door,Combustion,Direct
+OID-06844,Thoughtworks,Germany,Hyundai Tucson,Tires,Mirror,Combustion,Dealer
+OID-10151,Flashdog,France,Volkswagen Golf,Tires,Speaker,Combustion,Dealer
+OID-36882,Mydeo,Germany,Peugeot 208,Tires,Video Player,Hybrid,Dealer
+OID-47628,Mydeo,United Kingdom,Toyota Corolla,Battery,Mirror,Electric,Unaffiliated Workshops
+OID-60679,Jaxspan,Spain,Renault Clio,Headlights,Door,Combustion,Dealer
+OID-80831,Eamia,Spain,Dacia Lodgy,Tires,GPS,Combustion,Dealer
+OID-17290,Thoughtworks,France,Skoda Octavia,Headlights,Radio,Electric,Dealer
+OID-42360,Jaxspan,United Kingdom,Fiat Panda,Brakes,Alarm,Combustion,Dealer
+OID-13187,Eamia,Spain,Dacia Sanedero,Battery,GPS,Electric,Direct
+OID-37642,Mynte,Switzerland,Volkswagen Golf,Airbags,Door,Electric,Dealer
+OID-94100,Mydeo,Italy,Renault Clio,Headlights,Door,Combustion,Dealer
+OID-48767,Eamia,Italy,Audi e-Tron,Airbags,Radio,Combustion,Dealer
+OID-00530,Demivee,Italy,Toyota RAV4,Tires,Mirror,Combustion,Dealer
+OID-51674,Demivee,Germany,Toyota Carolia,Tires,Mirror,Hybrid,Dealer
+OID-84379,Mynte,Romania,Fiat Panda,Chassis,Radio,Combustion,Direct
+OID-69077,Devify,France,Toyota Corolla,Thermostat,Alarm,Electric,Dealer
+OID-20849,Thoughtworks,Germany,Toyota Corolla,Drivetrain,Rims,Electric,Direct
+OID-99142,Thoughtworks,Germany,Dacia Lodgy,Drivetrain,Door,Combustion,Dealer
+OID-33934,Devify,Italy,Skoda Octavia,Airbags,Alarm,Combustion,Dealer
+OID-84140,Buzzdog,Germany,Dacia Lodgy,Brakes,Mirror,Combustion,Dealer
+OID-96420,Thoughtworks,Spain,Audi e-Tron,Tires,Subwoofer,Combustion,Unaffiliated Workshops
+OID-42651,Livepath,Netherlands,Dacia Lodgy,Tires,Door,Electric,Unaffiliated Workshops
+OID-62242,Devify,Austria,Skoda Octavia,Brakes,Door,Electric,Dealer
+OID-86959,Mydeo,United Kingdom,Hyundai Tucson,Battery,Mirror,Electric,Dealer
+OID-23530,Flashdog,France,Kia Niro,Battery,Roof,Combustion,Direct
+OID-81808,Eamia,Romania,Dacia Sanedero,Thermostat,Roof,Combustion,Direct
+OID-83247,Jaxspan,Netherlands,Fiat Panda,Tires,Rims,Combustion,Direct
+OID-91908,Eamia,Germany,Fiat Panda,Thermostat,Door,Combustion,Dealer
+OID-61143,Eamia,France,Toyota Corolla,Tires,Roof,Combustion,Direct
+OID-07530,Buzzdog,Germany,Toyota Carolia,Chassis,Door,Combustion,Dealer
+OID-84790,Jaxspan,France,Volkswagen Golf,Battery,Door,Combustion,Dealer
+OID-84457,Eamia,Germany,Toyota Corolla,Airbags,Door,Combustion,Dealer
+OID-67061,Thoughtworks,United Kingdom,Peugeot 208,Thermostat,Radio,Combustion,Dealer
+OID-96234,Thoughtworks,Germany,Fiat Panda,Tires,Video Player,Combustion,Dealer
+OID-51373,Mydeo,United Kingdom,Toyota Corolla,Chassis,Alarm,Combustion,Dealer
+OID-30640,Devify,Netherlands,Renault Clio,Tires,Door,Combustion,Dealer
+OID-98215,Mynte,Germany,Skoda Octavia,Battery,Door,Combustion,Direct
+OID-13659,Mydeo,Germany,Volkswagen Golf,Tires,Mirror,Electric,Direct
+OID-51483,Thoughtworks,United Kingdom,Dacia Sanedero,Gearbox,Door,Combustion,Dealer
+OID-33073,Thoughtworks,Germany,Fiat Panda,Battery,Radio,Combustion,Dealer
+OID-32805,Thoughtworks,Netherlands,Audi e-Tron,Thermostat,Mirror,Combustion,Dealer
+OID-56380,Thoughtworks,United Kingdom,Hyundai Tucson,Radiator,Alarm,Combustion,Dealer
+OID-91740,Jaxspan,United Kingdom,Toyota Yaris,Battery,Mirror,Combustion,Dealer
+OID-51391,Devify,Italy,Toyota Yaris,Thermostat,Mirror,Combustion,Dealer
+OID-11714,Thoughtworks,Germany,Audi e-Tron,Chassis,Door,Hybrid,Unaffiliated Workshops
+OID-24302,Flashdog,Germany,Peugeot 208,Brakes,Rims,Combustion,Dealer
+OID-07430,Eamia,United Kingdom,Toyota Carolia,Fuse Box,Roof,Hybrid,Dealer
+OID-00165,Pixope,Romania,Kia Niro,Airbags,Rims,Combustion,Unaffiliated Workshops
+OID-59461,Thoughtworks,Germany,Audi e-Tron,Headlights,Door,Combustion,Dealer
+OID-56163,Demivee,Germany,Toyota Yaris,Battery,Door,Electric,Unaffiliated Workshops
+OID-24845,Thoughtworks,Italy,Toyota Yaris,Brakes,Door,Combustion,Dealer
+OID-04019,Devify,Romania,Volkswagen Golf,Headlights,Roof,Electric,Dealer
+OID-79347,Meembee,France,Skoda Octavia,Tires,Door,Combustion,Dealer
+OID-37793,Eamia,Italy,Toyota Corolla,Battery,Door,Combustion,Dealer
+OID-70322,Livepath,Germany,Toyota Corolla,Chassis,Speaker,Combustion,Dealer
+OID-00117,Eamia,Germany,Hyundai Tucson,Fuse Box,GPS,Electric,Unaffiliated Workshops
+OID-33341,Eamia,Germany,Skoda Octavia,Chassis,Alarm,Combustion,Unaffiliated Workshops
+OID-95267,Meembee,United Kingdom,Volkswagen Golf,Tires,Radio,Hybrid,Unaffiliated Workshops
+OID-62557,Mydeo,Spain,Hyundai Tucson,Tires,Subwoofer,Combustion,Unaffiliated Workshops
+OID-34349,Thoughtworks,United Kingdom,Kia Niro,Brakes,Roof,Electric,Dealer
+OID-90690,Thoughtworks,Germany,Skoda Octavia,Battery,Roof,Combustion,Dealer
+OID-57028,Jaxspan,Austria,Volkswagen Golf,Tires,Door,Combustion,Dealer
+OID-04374,Buzzdog,Germany,Kia Niro,Tires,Rims,Combustion,Unaffiliated Workshops
+OID-80657,Meembee,United Kingdom,Skoda Octavia,Gearbox,Mirror,Combustion,Direct
+OID-10867,Demivee,United Kingdom,Dacia Lodgy,Brakes,Door,Combustion,Dealer
+OID-19739,Mynte,Germany,Kia Niro,Headlights,Rims,Electric,Direct
+OID-34093,Jaxspan,France,Toyota Carolia,Battery,Roof,Hybrid,Dealer
+OID-31946,Jaxspan,Germany,Hyundai Tucson,Fuse Box,Mirror,Combustion,Dealer
+OID-95912,Buzzdog,Germany,Volkswagen Golf,Airbags,Bumper,Combustion,Dealer
+OID-12394,Realbuzz,Romania,Fiat Panda,Battery,Subwoofer,Combustion,Direct
+OID-65084,Avamm,Switzerland,Dacia Lodgy,Chassis,Mirror,Combustion,Dealer
+OID-77083,Thoughtworks,Germany,Toyota RAV4,Battery,Mirror,Electric,Dealer
+OID-67058,Thoughtworks,United Kingdom,Hyundai Tucson,Tires,Speaker,Combustion,Unaffiliated Workshops
+OID-65803,Jaxspan,Spain,Kia Niro,Drivetrain,Mirror,Electric,Dealer
+OID-48457,Mydeo,Italy,Hyundai Tucson,Tires,Rims,Combustion,Dealer
+OID-59780,Oyope,Italy,Toyota Carolia,Battery,Mirror,Electric,Dealer
+OID-94283,Devify,Germany,Kia Niro,Thermostat,Speaker,Electric,Dealer
+OID-18619,Eamia,United Kingdom,Skoda Octavia,Thermostat,Roof,Hybrid,Dealer
+OID-34887,Jaxspan,Romania,Toyota RAV4,Battery,Mirror,Combustion,Unaffiliated Workshops
+OID-72892,Mydeo,Netherlands,Kia Niro,Chassis,Mirror,Combustion,Unaffiliated Workshops
+OID-84703,Jaxspan,Germany,Toyota Yaris,Distributor,Roof,Combustion,Unaffiliated Workshops
+OID-81066,Devify,Switzerland,Toyota Yaris,Thermostat,Door,Combustion,Dealer
+OID-11944,Thoughtworks,France,Volkswagen Golf,Tires,Speaker,Combustion,Dealer
+OID-34169,Oyope,Netherlands,Dacia Sanedero,Brakes,Roof,Electric,Unaffiliated Workshops
+OID-78020,Mydeo,United Kingdom,Kia Niro,Brakes,Roof,Combustion,Direct
+OID-17500,Thoughtworks,Germany,Volkswagen Golf,Gearbox,Roof,Combustion,Dealer
+OID-47884,Eamia,Austria,Renault Clio,Battery,Mirror,Combustion,Unaffiliated Workshops
+OID-25294,Thoughtworks,Germany,Peugeot 208,Distributor,Door,Electric,Direct
+OID-49232,Eamia,United Kingdom,Kia Niro,Airbags,Mirror,Combustion,Dealer
+OID-85735,Mydeo,Romania,Toyota Corolla,Drivetrain,Door,Combustion,Unaffiliated Workshops
+OID-31539,Eamia,Spain,Toyota Corolla,Tires,Speaker,Combustion,Unaffiliated Workshops
+OID-35505,Buzzdog,United Kingdom,Dacia Lodgy,Distributor,Rims,Combustion,Unaffiliated Workshops
+OID-47714,Pixope,United Kingdom,Kia Niro,Thermostat,Rims,Combustion,Unaffiliated Workshops
+OID-55213,Mynte,Netherlands,Volkswagen Golf,Battery,Alarm,Hybrid,Dealer
+OID-53368,Demivee,Germany,Hyundai Tucson,Tires,Door,Combustion,Unaffiliated Workshops
+OID-33479,Thoughtworks,Switzerland,Skoda Octavia,Headlights,Rims,Hybrid,Dealer
+OID-12447,Mydeo,United Kingdom,Dacia Sanedero,Spark Plug,Door,Combustion,Dealer
+OID-31568,Devify,Italy,Volkswagen Golf,Headlights,Radio,Combustion,Unaffiliated Workshops
+OID-73427,Buzzdog,United Kingdom,Volkswagen Golf,Chassis,Rims,Combustion,Dealer
+OID-23176,Thoughtworks,Italy,Dacia Sanedero,Spark Plug,Alarm,Combustion,Dealer
+OID-61186,Buzzdog,United Kingdom,Toyota Corolla,Tires,Subwoofer,Electric,Dealer
+OID-23126,Jaxspan,Germany,Toyota Corolla,Airbags,Rims,Combustion,Dealer
+OID-15069,Devify,Spain,Toyota Corolla,Thermostat,Door,Combustion,Unaffiliated Workshops
+OID-86430,Demivee,Switzerland,Kia Niro,Tires,Door,Electric,Dealer
+OID-42326,Thoughtworks,United Kingdom,Fiat Panda,Brakes,Subwoofer,Combustion,Dealer
+OID-92755,Mydeo,Italy,Kia Niro,Distributor,Door,Electric,Unaffiliated Workshops
+OID-14336,Eamia,Romania,Toyota Corolla,Battery,Rims,Combustion,Unaffiliated Workshops
+OID-19968,Skalith,Spain,Renault Clio,Tires,Mirror,Combustion,Dealer
+OID-67220,Buzzdog,United Kingdom,Audi e-Tron,Airbags,Rims,Combustion,Dealer
+OID-18532,Thoughtworks,Germany,Dacia Lodgy,Headlights,Mirror,Combustion,Direct
+OID-62780,Reallinks,United Kingdom,Dacia Lodgy,Distributor,Mirror,Hybrid,Unaffiliated Workshops
+OID-02227,Devify,Germany,Toyota Carolia,Fuse Box,Rims,Hybrid,Dealer
+OID-00194,Jaxspan,Italy,Peugeot 208,Thermostat,GPS,Combustion,Dealer
+OID-81850,Skalith,Germany,Dacia Sanedero,Chassis,Mirror,Combustion,Dealer
+OID-80873,Thoughtworks,Germany,Dacia Sanedero,Spark Plug,Door,Combustion,Dealer
+OID-27762,Thoughtworks,Italy,Toyota Carolia,Tires,Bumper,Combustion,Direct
+OID-91042,Jaxspan,Italy,Volkswagen Golf,Chassis,Bumper,Hybrid,Unaffiliated Workshops
+OID-78298,Mynte,Germany,Hyundai Tucson,Drivetrain,Door,Combustion,Dealer
+OID-00075,Devify,Germany,Toyota Carolia,Chassis,Speaker,Combustion,Direct
+OID-89715,Thoughtworks,Italy,Fiat Panda,Brakes,Radio,Combustion,Unaffiliated Workshops
+OID-38068,Jaxspan,Germany,Dacia Sanedero,Headlights,Door,Combustion,Dealer
+OID-13650,Demivee,Spain,Renault Clio,Fuse Box,GPS,Combustion,Dealer
+OID-86948,Eamia,France,Kia Niro,Brakes,Video Player,Combustion,Dealer
+OID-24476,Jaxspan,Germany,Toyota RAV4,Chassis,Door,Combustion,Dealer
+OID-47988,Devify,Italy,Volkswagen Golf,Fuse Box,Door,Electric,Dealer
+OID-33002,Reallinks,Germany,Hyundai Tucson,Thermostat,Mirror,Electric,Dealer
+OID-41189,Eamia,Netherlands,Kia Niro,Fuse Box,Door,Combustion,Dealer
+OID-48787,Demivee,United Kingdom,Kia Niro,Headlights,Door,Combustion,Dealer
+OID-55387,Trudoo,Germany,Dacia Lodgy,Headlights,Radio,Combustion,Unaffiliated Workshops
+OID-51090,Thoughtworks,Netherlands,Volkswagen Golf,Tires,Door,Combustion,Unaffiliated Workshops
+OID-83129,Eamia,United Kingdom,Volkswagen Golf,Brakes,Mirror,Hybrid,Dealer
+OID-80829,Thoughtworks,Germany,Toyota Corolla,Battery,Alarm,Hybrid,Dealer
+OID-70703,Thoughtworks,Germany,Peugeot 208,Tires,Roof,Combustion,Unaffiliated Workshops
+OID-65412,Reallinks,Italy,Skoda Octavia,Battery,GPS,Combustion,Dealer
+OID-27834,Reallinks,Germany,Audi e-Tron,Tires,Door,Combustion,Dealer
+OID-37857,Thoughtworks,Germany,Volkswagen Golf,Brakes,Mirror,Combustion,Unaffiliated Workshops
+OID-88506,Reallinks,United Kingdom,Toyota Corolla,Fuse Box,GPS,Combustion,Dealer
+OID-10010,Eamia,Germany,Audi e-Tron,Headlights,Alarm,Combustion,Dealer
+OID-13953,Thoughtworks,Austria,Toyota Corolla,Tires,Door,Hybrid,Dealer
+OID-38779,Devify,Romania,Audi e-Tron,Tires,Rims,Combustion,Dealer
+OID-92015,Thoughtworks,Spain,Toyota RAV4,Headlights,Rims,Combustion,Dealer
+OID-69637,Devify,Netherlands,Toyota Carolia,Fuse Box,Mirror,Combustion,Dealer
+OID-05827,Thoughtworks,United Kingdom,Audi e-Tron,Tires,Door,Combustion,Direct
+OID-21212,Mydeo,United Kingdom,Fiat Panda,Tires,Alarm,Combustion,Unaffiliated Workshops
+OID-47744,Thoughtworks,France,Skoda Octavia,Thermostat,Mirror,Combustion,Unaffiliated Workshops
+OID-43685,Thoughtworks,Italy,Fiat Panda,Gearbox,Roof,Combustion,Dealer
+OID-50544,Thoughtworks,Spain,Toyota Corolla,Fuse Box,Alarm,Combustion,Direct
+OID-91451,Demivee,Italy,Kia Niro,Tires,Door,Combustion,Unaffiliated Workshops
+OID-27265,Mynte,Italy,Toyota Yaris,Tires,Mirror,Combustion,Dealer
+OID-86773,Mydeo,Germany,Renault Clio,Tires,Roof,Combustion,Direct
+OID-13987,Thoughtworks,Netherlands,Toyota Corolla,Airbags,Alarm,Combustion,Unaffiliated Workshops
+OID-60289,Mydeo,Romania,Toyota Yaris,Airbags,Door,Combustion,Unaffiliated Workshops
+OID-50326,Meembee,Germany,Toyota Carolia,Tires,Roof,Electric,Unaffiliated Workshops
+OID-08976,Thoughtworks,Austria,Audi e-Tron,Airbags,Door,Combustion,Dealer
+OID-55519,Buzzdog,Germany,Fiat Panda,Drivetrain,Roof,Combustion,Dealer
+OID-39056,Skalith,Switzerland,Toyota Carolia,Airbags,Door,Combustion,Unaffiliated Workshops
+OID-06785,Eamia,Netherlands,Volkswagen Golf,Tires,GPS,Combustion,Unaffiliated Workshops
+OID-18444,Meembee,United Kingdom,Peugeot 208,Tires,Door,Combustion,Dealer
+OID-41731,Flipstorm,Germany,Volkswagen Golf,Thermostat,Alarm,Combustion,Unaffiliated Workshops
+OID-26446,Thoughtworks,Germany,Dacia Lodgy,Drivetrain,GPS,Hybrid,Direct
+OID-68746,Buzzdog,Switzerland,Toyota Corolla,Tires,Mirror,Hybrid,Unaffiliated Workshops
+OID-60182,Thoughtworks,Netherlands,Fiat Panda,Tires,Speaker,Electric,Dealer
+OID-24492,Mydeo,Netherlands,Volkswagen Golf,Headlights,Door,Combustion,Direct
+OID-23310,Flashdog,Netherlands,Toyota Yaris,Drivetrain,Mirror,Electric,Dealer
+OID-81261,Avamm,Germany,Peugeot 208,Fuse Box,Mirror,Combustion,Unaffiliated Workshops
+OID-82748,Flashdog,United Kingdom,Skoda Octavia,Drivetrain,Radio,Combustion,Dealer
+OID-67535,Devify,United Kingdom,Kia Niro,Brakes,Roof,Combustion,Dealer
+OID-42001,Devify,United Kingdom,Renault Clio,Spark Plug,Door,Electric,Dealer
+OID-58184,Oyope,France,Toyota Yaris,Brakes,Mirror,Electric,Dealer
+OID-96213,Mynte,Germany,Toyota RAV4,Chassis,Roof,Combustion,Dealer
+OID-07697,Mydeo,Germany,Hyundai Tucson,Drivetrain,Roof,Combustion,Unaffiliated Workshops
+OID-02455,Mydeo,Netherlands,Audi e-Tron,Thermostat,GPS,Electric,Dealer
+OID-97097,Eamia,Germany,Audi e-Tron,Airbags,GPS,Combustion,Dealer
+OID-45228,Mynte,Italy,Kia Niro,Headlights,Mirror,Combustion,Unaffiliated Workshops
+OID-49465,Reallinks,Spain,Toyota Carolia,Tires,Mirror,Hybrid,Unaffiliated Workshops
+OID-58457,Demivee,Germany,Peugeot 208,Thermostat,Door,Hybrid,Unaffiliated Workshops
+OID-17192,Mydeo,Germany,Toyota RAV4,Headlights,Door,Combustion,Dealer
+OID-58804,Devify,United Kingdom,Dacia Sanedero,Brakes,Alarm,Combustion,Direct
+OID-57350,Jaxspan,Spain,Volkswagen Golf,Tires,Door,Combustion,Dealer
+OID-69628,Skalith,Romania,Fiat Panda,Airbags,Rims,Combustion,Dealer
+OID-36807,Devify,Romania,Toyota Carolia,Drivetrain,Roof,Electric,Dealer
+OID-64513,Devify,Germany,Volkswagen Golf,Chassis,GPS,Hybrid,Dealer
+OID-65725,Devify,Germany,Toyota RAV4,Airbags,Bumper,Combustion,Dealer
+OID-11305,Jaxspan,Netherlands,Dacia Sanedero,Spark Plug,Door,Combustion,Direct
+OID-52596,Thoughtworks,Italy,Renault Clio,Airbags,Radio,Combustion,Direct
+OID-95709,Mydeo,Spain,Dacia Lodgy,Tires,Roof,Combustion,Dealer
+OID-75178,Eamia,Germany,Toyota Yaris,Battery,Mirror,Hybrid,Unaffiliated Workshops
+OID-52040,Thoughtworks,United Kingdom,Fiat Panda,Airbags,Bumper,Electric,Direct
+OID-26345,Thoughtworks,Romania,Dacia Lodgy,Headlights,Radio,Combustion,Unaffiliated Workshops
+OID-88167,Thoughtworks,France,Skoda Octavia,Airbags,Radio,Hybrid,Dealer
+OID-69944,Thoughtworks,Spain,Toyota Carolia,Tires,Mirror,Combustion,Dealer
+OID-42951,Devify,United Kingdom,Hyundai Tucson,Thermostat,Radio,Combustion,Direct
+OID-78735,Jaxspan,Germany,Toyota Corolla,Fuse Box,Bumper,Electric,Direct
+OID-97313,Thoughtworks,Germany,Volkswagen Golf,Airbags,Roof,Hybrid,Dealer
+OID-47071,Buzzdog,United Kingdom,Kia Niro,Fuse Box,Door,Combustion,Dealer
+OID-45426,Demivee,France,Kia Niro,Gearbox,Door,Combustion,Unaffiliated Workshops
+OID-36141,Devify,Italy,Volkswagen Golf,Airbags,Rims,Combustion,Direct
+OID-16149,Eamia,Netherlands,Peugeot 208,Tires,Door,Combustion,Dealer
+OID-95925,Devify,Germany,Renault Clio,Spark Plug,Mirror,Combustion,Dealer
+OID-44016,Eamia,Germany,Skoda Octavia,Tires,Rims,Combustion,Dealer
+OID-31247,Thoughtworks,Netherlands,Peugeot 208,Airbags,Door,Combustion,Dealer
+OID-38613,Thoughtworks,Germany,Skoda Octavia,Fuse Box,Mirror,Combustion,Direct
+OID-04127,Skalith,Spain,Dacia Lodgy,Headlights,Door,Combustion,Unaffiliated Workshops
+OID-41679,Eamia,United Kingdom,Toyota RAV4,Distributor,Rims,Combustion,Unaffiliated Workshops
+OID-21869,Jaxspan,United Kingdom,Audi e-Tron,Thermostat,Door,Combustion,Dealer
+OID-63694,Eamia,Germany,Toyota RAV4,Drivetrain,GPS,Hybrid,Dealer
+OID-83045,Mynte,Romania,Renault Clio,Thermostat,Alarm,Combustion,Dealer
+OID-83615,Meembee,Germany,Dacia Lodgy,Fuse Box,Mirror,Hybrid,Dealer
+OID-11637,Devify,Romania,Toyota Yaris,Brakes,Rims,Hybrid,Dealer
+OID-65385,Thoughtworks,France,Kia Niro,Chassis,Radio,Combustion,Unaffiliated Workshops
+OID-25353,Demivee,Germany,Toyota Carolia,Drivetrain,Radio,Combustion,Direct
+OID-48594,Thoughtworks,Germany,Dacia Sanedero,Tires,Radio,Combustion,Dealer
+OID-18895,Devify,Germany,Peugeot 208,Thermostat,Radio,Combustion,Dealer
+OID-65417,Reallinks,Spain,Skoda Octavia,Tires,Door,Combustion,Dealer
+OID-44672,Eamia,Germany,Hyundai Tucson,Chassis,Door,Electric,Dealer
+OID-65109,Trudoo,Netherlands,Volkswagen Golf,Spark Plug,Alarm,Combustion,Unaffiliated Workshops
+OID-86453,Avamm,Germany,Dacia Sanedero,Gearbox,Door,Combustion,Dealer
+OID-10385,Demivee,France,Skoda Octavia,Gearbox,Door,Combustion,Direct
+OID-62982,Dazzlesphere,Spain,Peugeot 208,Gearbox,Roof,Combustion,Dealer
+OID-27993,Eamia,Italy,Peugeot 208,Airbags,Mirror,Combustion,Direct
+OID-58555,Oyope,Germany,Volkswagen Golf,Drivetrain,Bumper,Combustion,Dealer
+OID-97721,Devify,United Kingdom,Toyota Yaris,Chassis,Bumper,Combustion,Dealer
+OID-41424,Demivee,Germany,Audi e-Tron,Battery,Mirror,Combustion,Dealer
+OID-43787,Meembee,United Kingdom,Toyota Corolla,Thermostat,Roof,Combustion,Dealer
+OID-32762,Mynte,France,Audi e-Tron,Chassis,Mirror,Combustion,Dealer
+OID-72645,Eamia,Germany,Skoda Octavia,Airbags,Mirror,Combustion,Dealer
+OID-27521,Devify,Germany,Fiat Panda,Headlights,Door,Electric,Dealer
+OID-61883,Eamia,Spain,Toyota Yaris,Tires,GPS,Combustion,Unaffiliated Workshops
+OID-32183,Devify,United Kingdom,Audi e-Tron,Headlights,Speaker,Electric,Unaffiliated Workshops
+OID-78434,Meembee,United Kingdom,Dacia Sanedero,Fuse Box,Mirror,Hybrid,Dealer
+OID-86794,Mynte,Austria,Peugeot 208,Drivetrain,Mirror,Combustion,Dealer
+OID-97565,Devify,United Kingdom,Toyota Yaris,Battery,Rims,Combustion,Direct
+OID-69303,Eamia,United Kingdom,Audi e-Tron,Tires,Mirror,Electric,Dealer
+OID-69879,Thoughtworks,United Kingdom,Audi e-Tron,Thermostat,Alarm,Combustion,Dealer
+OID-43431,Devify,Italy,Renault Clio,Headlights,Door,Combustion,Direct
+OID-72419,Thoughtworks,Romania,Volkswagen Golf,Battery,Door,Combustion,Direct
+OID-68953,Eamia,Germany,Dacia Sanedero,Radiator,Mirror,Combustion,Dealer
+OID-98786,Thoughtworks,Romania,Hyundai Tucson,Airbags,Video Player,Hybrid,Unaffiliated Workshops
+OID-15720,Thoughtworks,Netherlands,Fiat Panda,Brakes,Door,Combustion,Dealer
+OID-27645,Flashdog,United Kingdom,Dacia Sanedero,Headlights,GPS,Electric,Dealer
+OID-43806,Mydeo,Germany,Audi e-Tron,Drivetrain,Door,Combustion,Dealer
+OID-25325,Devify,France,Dacia Lodgy,Spark Plug,Alarm,Combustion,Unaffiliated Workshops
+OID-08077,Devify,Austria,Hyundai Tucson,Thermostat,Rims,Electric,Dealer
+OID-83106,Flipstorm,Italy,Skoda Octavia,Thermostat,Bumper,Combustion,Direct
+OID-91813,Devify,Germany,Fiat Panda,Thermostat,Speaker,Combustion,Unaffiliated Workshops
+OID-74459,Devify,Spain,Dacia Lodgy,Chassis,Mirror,Hybrid,Dealer
+OID-23719,Jaxspan,Romania,Audi e-Tron,Tires,Door,Combustion,Dealer
+OID-57562,Oyope,United Kingdom,Hyundai Tucson,Airbags,Mirror,Combustion,Unaffiliated Workshops
+OID-59194,Jaxspan,Italy,Kia Niro,Battery,Roof,Combustion,Dealer
+OID-96108,Thoughtworks,United Kingdom,Dacia Lodgy,Tires,Rims,Combustion,Unaffiliated Workshops
+OID-12149,Demivee,Germany,Skoda Octavia,Airbags,Roof,Electric,Dealer
+OID-09319,Eamia,Italy,Audi e-Tron,Airbags,Door,Electric,Dealer
+OID-87269,Eamia,United Kingdom,Toyota Corolla,Headlights,Mirror,Hybrid,Dealer
+OID-36844,Buzzdog,Italy,Audi e-Tron,Airbags,Mirror,Electric,Dealer
+OID-80084,Mynte,Italy,Peugeot 208,Headlights,Door,Hybrid,Direct
+OID-36132,Buzzdog,Italy,Dacia Lodgy,Tires,Mirror,Combustion,Dealer
+OID-33742,Eamia,United Kingdom,Toyota Carolia,Headlights,Radio,Combustion,Direct
+OID-30981,Mydeo,United Kingdom,Toyota RAV4,Chassis,Mirror,Combustion,Dealer
+OID-37499,Devify,Spain,Skoda Octavia,Brakes,Rims,Electric,Dealer
+OID-10688,Thoughtworks,Germany,Hyundai Tucson,Tires,Radio,Combustion,Direct
+OID-59585,Thoughtworks,Spain,Toyota Corolla,Tires,Radio,Combustion,Dealer
+OID-51914,Eamia,Spain,Peugeot 208,Tires,Subwoofer,Combustion,Dealer
+OID-42123,Jaxspan,Italy,Peugeot 208,Fuse Box,Door,Combustion,Unaffiliated Workshops
+OID-14121,Jaxspan,Switzerland,Toyota Corolla,Tires,Mirror,Combustion,Direct
+OID-28344,Devify,Italy,Hyundai Tucson,Brakes,Mirror,Electric,Dealer
+OID-58997,Dazzlesphere,Netherlands,Audi e-Tron,Brakes,GPS,Combustion,Unaffiliated Workshops
+OID-47744,Livepath,Germany,Dacia Lodgy,Airbags,Door,Combustion,Dealer
+OID-99616,Realbuzz,Romania,Peugeot 208,Gearbox,Radio,Electric,Direct
+OID-20662,Eamia,Italy,Toyota Yaris,Chassis,Alarm,Electric,Direct
+OID-97378,Thoughtworks,Germany,Audi e-Tron,Fuse Box,Mirror,Combustion,Dealer
+OID-16197,Devify,Germany,Toyota Corolla,Headlights,Rims,Combustion,Dealer
+OID-04233,Demivee,Italy,Peugeot 208,Drivetrain,Mirror,Combustion,Direct
+OID-62318,Eamia,Germany,Audi e-Tron,Headlights,GPS,Combustion,Unaffiliated Workshops
+OID-90257,Reallinks,United Kingdom,Renault Clio,Fuse Box,Roof,Combustion,Direct
+OID-37119,Devify,Germany,Toyota RAV4,Battery,Roof,Hybrid,Direct
+OID-36956,Thoughtworks,France,Dacia Lodgy,Battery,Roof,Hybrid,Dealer
+OID-65310,Devify,United Kingdom,Kia Niro,Distributor,Door,Combustion,Dealer
+OID-62201,Mydeo,United Kingdom,Toyota RAV4,Radiator,Speaker,Electric,Unaffiliated Workshops
+OID-11936,Flashdog,Spain,Kia Niro,Gearbox,Door,Combustion,Dealer
+OID-33555,Thoughtworks,Germany,Audi e-Tron,Airbags,Speaker,Combustion,Unaffiliated Workshops
+OID-33275,Devify,Italy,Kia Niro,Drivetrain,Roof,Combustion,Dealer
+OID-16753,Jaxspan,Germany,Toyota RAV4,Airbags,Radio,Combustion,Direct
+OID-18046,Mynte,Spain,Dacia Sanedero,Drivetrain,Radio,Electric,Dealer
+OID-02820,Eamia,France,Toyota Corolla,Brakes,Mirror,Combustion,Direct
+OID-91357,Devify,Germany,Volkswagen Golf,Battery,Door,Combustion,Direct
+OID-05663,Jaxspan,United Kingdom,Audi e-Tron,Airbags,Rims,Combustion,Dealer
+OID-48877,Thoughtworks,Italy,Dacia Lodgy,Battery,Mirror,Combustion,Unaffiliated Workshops
+OID-71455,Devify,Romania,Toyota Corolla,Thermostat,Mirror,Combustion,Dealer
+OID-98053,Eamia,Romania,Renault Clio,Fuse Box,Roof,Combustion,Unaffiliated Workshops
+OID-61276,Trudoo,Italy,Fiat Panda,Tires,GPS,Combustion,Unaffiliated Workshops
+OID-37737,Eamia,Germany,Skoda Octavia,Headlights,Subwoofer,Combustion,Unaffiliated Workshops
+OID-71297,Jaxspan,France,Hyundai Tucson,Tires,Radio,Combustion,Dealer
+OID-41706,Eamia,Germany,Peugeot 208,Spark Plug,Door,Combustion,Unaffiliated Workshops
+OID-22029,Mynte,Germany,Hyundai Tucson,Battery,Bumper,Electric,Direct
+OID-43253,Reallinks,Germany,Hyundai Tucson,Tires,Door,Combustion,Unaffiliated Workshops
+OID-84961,Eamia,Germany,Audi e-Tron,Tires,Mirror,Combustion,Unaffiliated Workshops
+OID-53277,Livepath,France,Dacia Sanedero,Fuse Box,Door,Combustion,Dealer
+OID-76106,Thoughtworks,Germany,Toyota Yaris,Tires,Mirror,Combustion,Unaffiliated Workshops
+OID-46785,Mydeo,Germany,Kia Niro,Gearbox,Mirror,Combustion,Unaffiliated Workshops
+OID-61899,Buzzdog,Germany,Skoda Octavia,Gearbox,Door,Combustion,Dealer
+OID-42161,Buzzdog,Germany,Toyota Corolla,Gearbox,Alarm,Hybrid,Dealer
+OID-31525,Mydeo,United Kingdom,Dacia Lodgy,Headlights,Roof,Hybrid,Unaffiliated Workshops
+OID-76888,Devify,United Kingdom,Toyota Yaris,Chassis,Rims,Combustion,Dealer
+OID-58005,Jaxspan,Romania,Renault Clio,Chassis,Door,Electric,Dealer
+OID-12480,Eamia,France,Audi e-Tron,Tires,Door,Hybrid,Unaffiliated Workshops
+OID-86763,Thoughtworks,Spain,Audi e-Tron,Airbags,Alarm,Combustion,Unaffiliated Workshops
+OID-36555,Avamm,Romania,Toyota RAV4,Drivetrain,Subwoofer,Combustion,Dealer
+OID-54144,Thoughtworks,Germany,Volkswagen Golf,Tires,Alarm,Combustion,Dealer
+OID-88488,Oyope,Italy,Toyota Corolla,Brakes,Door,Electric,Direct
+OID-67472,Jaxspan,Romania,Toyota Corolla,Thermostat,Roof,Combustion,Dealer
+OID-95381,Meembee,United Kingdom,Audi e-Tron,Fuse Box,Subwoofer,Electric,Dealer
+OID-71979,Eamia,Italy,Hyundai Tucson,Brakes,Door,Combustion,Dealer
+OID-11470,Thoughtworks,Romania,Toyota Corolla,Tires,Mirror,Electric,Unaffiliated Workshops
+OID-80972,Skalith,Germany,Hyundai Tucson,Headlights,Door,Combustion,Dealer
+OID-50387,Mydeo,Austria,Dacia Lodgy,Tires,Rims,Combustion,Dealer
+OID-76593,Mynte,Spain,Volkswagen Golf,Gearbox,Radio,Combustion,Dealer
+OID-00681,Buzzdog,Germany,Renault Clio,Headlights,GPS,Combustion,Dealer
+OID-16531,Thoughtworks,Romania,Skoda Octavia,Tires,Radio,Electric,Dealer
+OID-93403,Eamia,Germany,Dacia Sanedero,Fuse Box,Alarm,Combustion,Direct
+OID-06667,Devify,Germany,Fiat Panda,Drivetrain,Mirror,Combustion,Unaffiliated Workshops
+OID-48455,Mydeo,United Kingdom,Audi e-Tron,Battery,Door,Hybrid,Unaffiliated Workshops
+OID-15145,Eamia,United Kingdom,Peugeot 208,Drivetrain,Mirror,Combustion,Unaffiliated Workshops
+OID-60332,Thoughtworks,Germany,Renault Clio,Headlights,Rims,Combustion,Unaffiliated Workshops
+OID-72215,Mynte,Germany,Toyota RAV4,Drivetrain,Door,Combustion,Unaffiliated Workshops
+OID-07587,Thoughtworks,Germany,Volkswagen Golf,Tires,Door,Electric,Unaffiliated Workshops
+OID-81501,Thoughtworks,Austria,Volkswagen Golf,Headlights,Mirror,Combustion,Unaffiliated Workshops
+OID-31502,Jaxspan,Spain,Dacia Sanedero,Thermostat,Door,Hybrid,Direct
+OID-76799,Thoughtworks,United Kingdom,Hyundai Tucson,Tires,Door,Electric,Direct
+OID-67297,Buzzdog,Italy,Audi e-Tron,Fuse Box,Rims,Combustion,Unaffiliated Workshops
+OID-60818,Devify,Germany,Hyundai Tucson,Battery,Radio,Electric,Dealer
+OID-48912,Thoughtworks,France,Audi e-Tron,Headlights,Door,Combustion,Unaffiliated Workshops
+OID-63963,Mynte,Germany,Skoda Octavia,Battery,Rims,Combustion,Dealer
+OID-46602,Thoughtworks,Spain,Dacia Sanedero,Airbags,Rims,Combustion,Dealer
+OID-31629,Thoughtworks,Romania,Kia Niro,Airbags,Radio,Combustion,Unaffiliated Workshops
+OID-37635,Skalith,Romania,Toyota Carolia,Brakes,Mirror,Combustion,Dealer
+OID-63138,Eamia,Italy,Toyota Carolia,Airbags,Door,Combustion,Unaffiliated Workshops
+OID-12017,Mynte,Germany,Toyota Yaris,Drivetrain,Mirror,Electric,Unaffiliated Workshops
+OID-25890,Oyope,Spain,Audi e-Tron,Fuse Box,Door,Combustion,Dealer
+OID-49880,Mydeo,United Kingdom,Dacia Lodgy,Tires,Door,Electric,Dealer
+OID-68941,Devify,Germany,Audi e-Tron,Battery,Door,Combustion,Dealer
+OID-26042,Mydeo,France,Dacia Lodgy,Thermostat,Door,Combustion,Unaffiliated Workshops
+OID-54576,Buzzdog,France,Hyundai Tucson,Tires,Door,Combustion,Dealer
+OID-81129,Dazzlesphere,Austria,Volkswagen Golf,Gearbox,Door,Combustion,Direct
+OID-66301,Devify,Germany,Toyota Yaris,Tires,Door,Combustion,Direct
+OID-42720,Thoughtworks,Germany,Audi e-Tron,Brakes,Radio,Combustion,Dealer
+OID-11288,Mydeo,Germany,Peugeot 208,Gearbox,Rims,Hybrid,Dealer
+OID-00610,Mynte,United Kingdom,Fiat Panda,Fuse Box,Radio,Combustion,Unaffiliated Workshops
+OID-61714,Devify,Italy,Toyota Yaris,Tires,Alarm,Combustion,Dealer
+OID-99406,Mynte,Germany,Toyota Corolla,Thermostat,Rims,Combustion,Unaffiliated Workshops
+OID-84976,Mydeo,Italy,Toyota Yaris,Tires,GPS,Combustion,Dealer
+OID-28047,Flashdog,Germany,Toyota Corolla,Headlights,Radio,Combustion,Dealer
+OID-86717,Mynte,Italy,Toyota RAV4,Tires,Roof,Combustion,Dealer
+OID-19570,Trudoo,Italy,Toyota Yaris,Brakes,Door,Combustion,Dealer
+OID-39841,Jaxspan,Germany,Hyundai Tucson,Tires,Speaker,Combustion,Direct
+OID-23961,Mydeo,United Kingdom,Dacia Lodgy,Airbags,Radio,Hybrid,Dealer
+OID-22594,Thoughtworks,Germany,Skoda Octavia,Spark Plug,Mirror,Combustion,Unaffiliated Workshops
+OID-37738,Eamia,United Kingdom,Fiat Panda,Headlights,Door,Combustion,Unaffiliated Workshops
+OID-77869,Eamia,Germany,Fiat Panda,Thermostat,GPS,Combustion,Dealer
+OID-91338,Devify,United Kingdom,Toyota Carolia,Airbags,Radio,Hybrid,Direct
+OID-01555,Skalith,Austria,Fiat Panda,Headlights,Rims,Electric,Dealer
+OID-82718,Devify,France,Hyundai Tucson,Fuse Box,Rims,Combustion,Direct
+OID-80849,Buzzdog,United Kingdom,Peugeot 208,Tires,Mirror,Hybrid,Unaffiliated Workshops
+OID-51034,Devify,Germany,Toyota Corolla,Fuse Box,GPS,Combustion,Unaffiliated Workshops
+OID-06456,Trudoo,United Kingdom,Peugeot 208,Tires,Alarm,Hybrid,Dealer
+OID-28841,Feedspan,Netherlands,Dacia Sanedero,Chassis,Door,Combustion,Unaffiliated Workshops
+OID-64901,Jaxspan,United Kingdom,Peugeot 208,Fuse Box,Bumper,Combustion,Dealer
+OID-37638,Flipstorm,United Kingdom,Toyota Carolia,Chassis,Door,Combustion,Dealer
+OID-45569,Dazzlesphere,United Kingdom,Renault Clio,Chassis,Rims,Electric,Direct
+OID-68079,Thoughtworks,Germany,Kia Niro,Brakes,Radio,Hybrid,Dealer
+OID-32154,Oyope,Netherlands,Toyota Corolla,Airbags,Mirror,Combustion,Unaffiliated Workshops
+OID-58755,Devify,United Kingdom,Audi e-Tron,Headlights,Mirror,Combustion,Unaffiliated Workshops
+OID-76288,Devify,Romania,Audi e-Tron,Tires,Radio,Hybrid,Dealer
+OID-76558,Mydeo,Spain,Hyundai Tucson,Airbags,Mirror,Electric,Dealer
+OID-54516,Meembee,United Kingdom,Dacia Sanedero,Spark Plug,Mirror,Combustion,Dealer
+OID-25830,Devify,Germany,Toyota Carolia,Thermostat,Roof,Combustion,Dealer
+OID-58911,Eamia,Romania,Dacia Lodgy,Battery,Mirror,Combustion,Direct
+OID-52613,Mynte,United Kingdom,Toyota Carolia,Drivetrain,Rims,Combustion,Dealer
+OID-07648,Buzzdog,United Kingdom,Kia Niro,Chassis,Radio,Combustion,Dealer
+OID-90535,Mydeo,Switzerland,Hyundai Tucson,Tires,Alarm,Hybrid,Dealer
+OID-04462,Devify,France,Renault Clio,Tires,Door,Hybrid,Dealer
+OID-30732,Buzzdog,Germany,Toyota RAV4,Brakes,Roof,Combustion,Dealer
+OID-87425,Demivee,Netherlands,Dacia Lodgy,Brakes,Door,Hybrid,Unaffiliated Workshops
+OID-83027,Eamia,Spain,Fiat Panda,Headlights,Roof,Combustion,Dealer
+OID-52093,Mynte,Germany,Toyota Carolia,Thermostat,Door,Combustion,Dealer
+OID-61977,Mydeo,Germany,Renault Clio,Battery,Mirror,Electric,Dealer
+OID-86326,Thoughtworks,United Kingdom,Hyundai Tucson,Chassis,Door,Combustion,Dealer
+OID-68242,Thoughtworks,France,Renault Clio,Thermostat,Bumper,Combustion,Dealer
+OID-91685,Dazzlesphere,Italy,Toyota Carolia,Drivetrain,Roof,Combustion,Unaffiliated Workshops
+OID-09053,Devify,Germany,Peugeot 208,Gearbox,Roof,Combustion,Direct
+OID-46621,Eamia,Germany,Renault Clio,Gearbox,Door,Electric,Unaffiliated Workshops
+OID-71720,Thoughtworks,Netherlands,Audi e-Tron,Airbags,Mirror,Combustion,Direct
+OID-19253,Eamia,Germany,Peugeot 208,Fuse Box,Rims,Combustion,Direct
+OID-86230,Buzzdog,Germany,Volkswagen Golf,Headlights,Radio,Combustion,Dealer
+OID-30493,Demivee,Austria,Peugeot 208,Chassis,Door,Combustion,Dealer
+OID-01327,Mydeo,Germany,Toyota Yaris,Headlights,GPS,Combustion,Unaffiliated Workshops
+OID-69900,Thoughtworks,Germany,Kia Niro,Battery,Door,Combustion,Dealer
+OID-24855,Jaxspan,Netherlands,Toyota Corolla,Fuse Box,Door,Combustion,Unaffiliated Workshops
+OID-47466,Eamia,Austria,Hyundai Tucson,Headlights,Rims,Combustion,Unaffiliated Workshops
+OID-42118,Demivee,Netherlands,Dacia Sanedero,Airbags,Radio,Combustion,Direct
+OID-84251,Eamia,Germany,Peugeot 208,Airbags,Video Player,Combustion,Unaffiliated Workshops
+OID-68422,Mydeo,France,Kia Niro,Brakes,Roof,Combustion,Direct
+OID-39404,Eamia,Spain,Volkswagen Golf,Airbags,Radio,Combustion,Dealer
+OID-11615,Eamia,France,Toyota Yaris,Fuse Box,Alarm,Combustion,Unaffiliated Workshops
+OID-53958,Jaxspan,United Kingdom,Toyota Carolia,Fuse Box,Door,Combustion,Dealer
+OID-26150,Thoughtworks,Italy,Dacia Sanedero,Airbags,Roof,Combustion,Dealer
+OID-21438,Thoughtworks,Italy,Renault Clio,Fuse Box,Door,Combustion,Dealer
+OID-98358,Mydeo,United Kingdom,Peugeot 208,Chassis,Mirror,Combustion,Dealer
+OID-65812,Mydeo,Germany,Toyota Carolia,Airbags,Door,Electric,Unaffiliated Workshops
+OID-25850,Skalith,United Kingdom,Dacia Sanedero,Fuse Box,Roof,Combustion,Dealer
+OID-66416,Flashdog,Spain,Toyota Carolia,Tires,Alarm,Combustion,Dealer
+OID-50217,Devify,Germany,Toyota Corolla,Distributor,Roof,Electric,Unaffiliated Workshops
+OID-00355,Thoughtworks,United Kingdom,Peugeot 208,Brakes,Radio,Combustion,Dealer
+OID-11599,Eamia,Germany,Toyota RAV4,Battery,Door,Combustion,Dealer
+OID-19457,Skalith,Austria,Toyota Carolia,Tires,Speaker,Electric,Direct
+OID-12960,Eamia,Netherlands,Toyota Yaris,Thermostat,Door,Combustion,Dealer
+OID-63344,Jaxspan,Germany,Toyota Corolla,Radiator,GPS,Combustion,Dealer
+OID-41114,Eamia,Spain,Fiat Panda,Tires,Door,Electric,Dealer
+OID-93716,Eamia,Italy,Skoda Octavia,Headlights,Rims,Combustion,Direct
+OID-95208,Mydeo,United Kingdom,Toyota Yaris,Airbags,Mirror,Combustion,Direct
+OID-32159,Oyope,Spain,Toyota Corolla,Radiator,Door,Combustion,Direct
+OID-93633,Devify,France,Volkswagen Golf,Battery,Rims,Combustion,Dealer
+OID-55081,Flipstorm,Germany,Toyota RAV4,Headlights,Radio,Electric,Dealer
+OID-84844,Eamia,Germany,Peugeot 208,Headlights,GPS,Combustion,Dealer
+OID-64772,Mydeo,Germany,Skoda Octavia,Chassis,Rims,Hybrid,Direct
+OID-36760,Thoughtworks,United Kingdom,Peugeot 208,Tires,Radio,Hybrid,Direct
+OID-68945,Thoughtworks,Germany,Dacia Lodgy,Airbags,Alarm,Combustion,Dealer
+OID-25870,Thoughtworks,Germany,Skoda Octavia,Airbags,Rims,Electric,Unaffiliated Workshops
+OID-70131,Thoughtworks,Spain,Peugeot 208,Chassis,GPS,Combustion,Unaffiliated Workshops
+OID-01576,Flashdog,France,Dacia Sanedero,Airbags,Speaker,Electric,Dealer
+OID-20039,Eamia,Germany,Kia Niro,Drivetrain,Alarm,Combustion,Dealer
+OID-81650,Mynte,Spain,Skoda Octavia,Battery,Speaker,Combustion,Dealer
+OID-16047,Devify,Germany,Fiat Panda,Tires,Roof,Combustion,Unaffiliated Workshops
+OID-42146,Thoughtworks,Germany,Toyota Yaris,Drivetrain,Mirror,Combustion,Unaffiliated Workshops
+OID-32138,Avamm,United Kingdom,Audi e-Tron,Thermostat,Speaker,Hybrid,Dealer
+OID-52421,Devify,Germany,Renault Clio,Chassis,Roof,Combustion,Direct
+OID-31022,Dazzlesphere,Spain,Peugeot 208,Thermostat,GPS,Combustion,Dealer
+OID-08742,Thoughtworks,United Kingdom,Peugeot 208,Spark Plug,Door,Combustion,Dealer
+OID-11317,Eamia,United Kingdom,Dacia Sanedero,Airbags,Speaker,Combustion,Dealer
+OID-31045,Mydeo,Italy,Toyota Yaris,Fuse Box,Door,Combustion,Unaffiliated Workshops
+OID-44398,Eamia,United Kingdom,Kia Niro,Brakes,Speaker,Electric,Unaffiliated Workshops
+OID-79471,Devify,United Kingdom,Kia Niro,Thermostat,Radio,Electric,Unaffiliated Workshops
+OID-34251,Eamia,Spain,Volkswagen Golf,Headlights,Door,Combustion,Unaffiliated Workshops
+OID-61070,Realbuzz,United Kingdom,Hyundai Tucson,Drivetrain,Mirror,Combustion,Dealer
+OID-31994,Buzzdog,Italy,Toyota RAV4,Headlights,GPS,Combustion,Dealer
+OID-70136,Thoughtworks,United Kingdom,Toyota RAV4,Brakes,Mirror,Combustion,Unaffiliated Workshops
+OID-11733,Meembee,Spain,Skoda Octavia,Battery,Door,Combustion,Dealer
+OID-66783,Mydeo,Germany,Toyota Corolla,Thermostat,Mirror,Combustion,Dealer
+OID-74419,Jaxspan,Germany,Renault Clio,Chassis,Door,Combustion,Direct
+OID-01578,Jaxspan,Austria,Hyundai Tucson,Thermostat,Rims,Combustion,Dealer
+OID-18433,Eamia,Switzerland,Toyota RAV4,Gearbox,Mirror,Electric,Dealer
+OID-97412,Mydeo,Austria,Skoda Octavia,Fuse Box,GPS,Hybrid,Dealer
+OID-05899,Flashdog,Germany,Fiat Panda,Headlights,GPS,Combustion,Unaffiliated Workshops
+OID-63193,Devify,Germany,Kia Niro,Headlights,Bumper,Combustion,Direct
+OID-69682,Thoughtworks,Spain,Peugeot 208,Thermostat,Speaker,Hybrid,Dealer
+OID-90363,Eamia,Germany,Skoda Octavia,Chassis,Mirror,Combustion,Unaffiliated Workshops
+OID-35715,Buzzdog,Germany,Skoda Octavia,Tires,Door,Combustion,Dealer
+OID-11471,Eamia,Spain,Fiat Panda,Chassis,Mirror,Combustion,Dealer
+OID-35611,Devify,Germany,Dacia Sanedero,Battery,Roof,Electric,Unaffiliated Workshops
+OID-94650,Mydeo,Romania,Skoda Octavia,Chassis,GPS,Combustion,Dealer
+OID-83786,Thoughtworks,United Kingdom,Toyota RAV4,Chassis,Door,Combustion,Direct
+OID-07112,Eamia,Italy,Fiat Panda,Tires,Radio,Combustion,Dealer
+OID-25629,Devify,Romania,Skoda Octavia,Airbags,Mirror,Hybrid,Dealer
+OID-36870,Mydeo,France,Skoda Octavia,Headlights,Rims,Combustion,Unaffiliated Workshops
+OID-41621,Oyope,Spain,Dacia Sanedero,Airbags,Rims,Combustion,Unaffiliated Workshops
+OID-21449,Devify,Germany,Dacia Lodgy,Chassis,Bumper,Electric,Unaffiliated Workshops
+OID-61626,Eamia,Netherlands,Renault Clio,Drivetrain,Rims,Combustion,Dealer
+OID-03148,Mynte,Italy,Kia Niro,Airbags,Mirror,Combustion,Dealer
+OID-54149,Eamia,United Kingdom,Skoda Octavia,Airbags,Radio,Combustion,Unaffiliated Workshops
+OID-09017,Thoughtworks,Netherlands,Audi e-Tron,Gearbox,Mirror,Combustion,Unaffiliated Workshops
+OID-03350,Buzzdog,Switzerland,Fiat Panda,Battery,Speaker,Combustion,Unaffiliated Workshops
+OID-42349,Thoughtworks,Austria,Audi e-Tron,Thermostat,Subwoofer,Combustion,Unaffiliated Workshops
+OID-29970,Devify,Italy,Audi e-Tron,Thermostat,Rims,Combustion,Dealer
+OID-12547,Reallinks,Germany,Dacia Lodgy,Airbags,Rims,Combustion,Unaffiliated Workshops
+OID-07841,Eamia,United Kingdom,Toyota Yaris,Airbags,Radio,Combustion,Unaffiliated Workshops

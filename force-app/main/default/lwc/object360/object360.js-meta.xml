@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>51.0</apiVersion>
+    <isExposed>true</isExposed>
+    <masterLabel>Object 360 Static</masterLabel>
+    <description>Any object 360.</description>
+    <targets>
+        <target>lightningCommunity__Page</target>
+        <target>lightningCommunity__Default</target>
+        <target>lightning__AppPage</target>
+        <target>lightning__HomePage</target>
+        <target>lightning__RecordPage</target>
+    </targets>
+    <targetConfigs>
+        <targetConfig targets="lightning__HomePage, lightning__RecordPage,lightningCommunity__Default">
+            
+            
+            <property name="showProgress" type="Boolean"  label="Include Path" description="Select This if you want to display a path of picklist values from your chosen object"></property>
+            <property name="qualifiedFieldName" type="String" label="Qualified Picklist Field Name" description="Qualified field name of the picklist field. Eg: Account.Rating"/>
+            
+            <property name="object" type="String" label="Object API Name" default="" />
+            <property name="recordId" type="String" label="Record Id" description="Automatically binds the page's record id to the component variable, default value contextually obtains record Id from Lightning page, this can also be set explicitly" default="{!recordId}"/>
+
+            <property name="showEmoji" type="Boolean"  label="Show C-Sat Emoji"></property>
+            <property name="emojiType" type="String" label="Sentiment Emoji Type" datasource="utility:sentiment_negative,utility:smiley_and_people" default="utility:smiley_and_people"/>
+            
+            <property name="backgroundImage" type="String" label="Profile Card Background Photo" default="https://imgur.com/HmfcYBp.png" />
+            <property name="customColor" type="String" label="Profile Card Background Colour" default="blue" description="If you dont want to add a background picture, style your background with a custom color" />
+       
+       
+            
+            
+          
+            <property name="name" type="String" label="Name" default="Enter Name Here" />
+            
+            <property name="nameLabel" type="String" label="User Address Field" default="Enter Address or Additional Detail" />
+            <property name="userAvatar" type="String" label="Profile Picture" default="" description="Add Your very own picture here by pasting in a url"/>
+
+
+            <property name="metric1" type="String" label="Metric 1 Label" default="Metric 1" description="Label your metric here"/>
+            <property name="metric1Icon" type="String" label="Metric 1 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/"/>
+            <property name="metric1IconSize" type="String" label="Metric 1 Icon Size" datasource="Small,Medium,large" default="Medium" />
+            <property name="metric1Measure" type="String" label="Metric 1 Label Measure" default="Metric 1 Measure" description="Give your Metric a Value"/>
+
+
+            <property name="metric2" type="String" label="Metric 2 Label" default="Metric 2  Name" description="Label your metric here" />
+            <property name="metric2Measure" type="String" label="Metric 2 Label Measure" default="Metric 2 Measure" description="Give your Metric a Value" />
+            <property name="metric2Icon" type="String" label="Metric 2 Icon" default="standard:call"  description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/"/>
+            <property name="metric2IconSize" type="String" label="Metric 2 Icon Size" datasource="Small,Medium,large" default="Medium" />
+
+            <property name="metric3" type="String" label="Metric 3 Label" default="Metric 3 Name" description="Label your metric here"/>
+            <property name="metric3Measure" type="String" label="Metric 3 Label Measure" default="Metric 3 Measure" description="Give your Metric a Value"/>
+            <property name="metric3Icon" type="String" label="Metric 3 Icon" default="standard:call"  description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/"/>
+            <property name="metric3IconSize" type="String" label="Metric 3 Icon Size" datasource="Small,Medium,large" default="Medium" />
+
+            <property name="metric4" type="String" label="Metric 4 Label" default="Metric 4 Name" description="Label your metric here"/>
+            <property name="metric4Measure" type="String" label="Metric 4 Label Measure" default="Metric 4 Measure" description="Give your Metric a Value"/>
+            <property name="metric4Icon" type="String" label="Metric 4 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/" />
+            <property name="metric4IconSize" type="String" label="Metric 4 Icon Size" datasource="Small,Medium,large" default="Medium" />
+
+            <property name="metric5" type="String" label="Metric 5 Label" default="Metric 5" description="Label your metric here"/>
+            <property name="metric5Measure" type="String" label="Metric 5 Label Measure" default="Metric 5 Measure" description="Give your Metric a Value"/>
+            <property name="metric5Icon" type="String" label="Metric 5 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/"/>
+            <property name="metric5IconSize" type="String" label="Metric 5 Icon Size" datasource="Small,Medium,large" default="Medium" />
+
+            <property name="metric6" type="String" label="Metric 6 Label" default="Metric 6" description="Label your metric here"/>
+            <property name="metric6Measure" type="String" label="Metric 6 Label Measure" default="Metric 6 Measure" description="Give your Metric a Value"/>
+            <property name="metric6Icon" type="String" label="Metric 6 Icon" default="standard:call" description="Choose any icon from the SLDS Icon Library https://www.lightningdesignsystem.com/icons/"/>
+            <property name="metric6IconSize" type="String" label="Metric 6 Icon Size" datasource="Small,Medium,large" default="Medium"/>
+
+        </targetConfig>
+    </targetConfigs>
+</LightningComponentBundle>

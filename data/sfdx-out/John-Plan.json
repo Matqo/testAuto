@@ -1,0 +1,60 @@
+[
+    {
+        "sobject": "Account",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "Accounts.json"
+        ]
+    },
+    {
+        "sobject": "Contact",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Contacts.json"
+        ]
+    },
+    {
+        "sobject": "Custom_Activities__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Custom_Activities__cs.json"
+        ]
+    },
+    {
+        "sobject": "Appointment__c",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Appointment__cs.json"
+        ]
+    },
+    {
+        "sobject": "Asset",
+        "saveRefs": false,
+        "resolveRefs": true,
+        "files": [
+            "Assets.json"
+        ]
+    },
+    {
+        "sobject": "Campaign",
+        "saveRefs": true,
+        "resolveRefs": true,
+        "files": [
+            "Campaigns.json",
+            "Campaign2.json",
+            "Campaign3.json"
+        ]
+    },    
+    {
+        "sobject": "Configuration__c",
+        "saveRefs": false,
+        "resolveRefs": false,
+        "files": [
+            "Configuration__cs.json"
+        ]
+    }
+]

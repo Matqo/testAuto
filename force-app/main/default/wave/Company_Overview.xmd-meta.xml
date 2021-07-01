@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WaveXmd xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dataset xsi:nil="true"/>
+    <dimensions>
+        <conditionalFormatting>
+            <formattingPredicates>
+                <formatValue>rgb(156, 156, 13)</formatValue>
+                <operator xsi:nil="true"/>
+                <sortIndex xsi:nil="true"/>
+                <value xsi:nil="true"/>
+            </formattingPredicates>
+            <property>chartColor</property>
+            <referenceField>avg_Inventory_Level</referenceField>
+            <sortIndex xsi:nil="true"/>
+            <type>static</type>
+        </conditionalFormatting>
+        <field>Inventory_Level_1.ALL</field>
+        <isDerived>false</isDerived>
+        <sortIndex>0</sortIndex>
+    </dimensions>
+    <dimensions>
+        <conditionalFormatting>
+            <formattingPredicates>
+                <formatValue>#E84340</formatValue>
+                <operator xsi:nil="true"/>
+                <sortIndex xsi:nil="true"/>
+                <value xsi:nil="true"/>
+            </formattingPredicates>
+            <property>chartColor</property>
+            <referenceField>avg_NPS</referenceField>
+            <sortIndex xsi:nil="true"/>
+            <type>static</type>
+        </conditionalFormatting>
+        <field>all_1_1.ALL</field>
+        <isDerived>false</isDerived>
+        <sortIndex>1</sortIndex>
+    </dimensions>
+    <dimensions>
+        <conditionalFormatting>
+            <formattingPredicates>
+                <formatValue>#E6E830</formatValue>
+                <operator xsi:nil="true"/>
+                <sortIndex xsi:nil="true"/>
+                <value xsi:nil="true"/>
+            </formattingPredicates>
+            <property>chartColor</property>
+            <referenceField>avg_Replacement_Car_Utilisation</referenceField>
+            <sortIndex xsi:nil="true"/>
+            <type>static</type>
+        </conditionalFormatting>
+        <field>all_1_5.ALL</field>
+        <isDerived>false</isDerived>
+        <sortIndex>2</sortIndex>
+    </dimensions>
+    <measures>
+        <field>lens_2.Workshop_Utilisation</field>
+        <formatCustomFormat>[&quot;#,###.##%&quot;,1]</formatCustomFormat>
+        <formatDecimalSeparator>.</formatDecimalSeparator>
+        <formatThousandsSeparator>,</formatThousandsSeparator>
+        <isDerived>false</isDerived>
+        <sortIndex>0</sortIndex>
+    </measures>
+    <measures>
+        <conditionalFormatting>
+            <formattingPredicates>
+                <formatValue>rgb(156, 156, 13)</formatValue>
+                <operator xsi:nil="true"/>
+                <sortIndex xsi:nil="true"/>
+                <value xsi:nil="true"/>
+            </formattingPredicates>
+            <property>chartColor</property>
+            <referenceField>avg_Inventory_Level</referenceField>
+            <sortIndex xsi:nil="true"/>
+            <type>static</type>
+        </conditionalFormatting>
+        <field>Inventory_Level_1.avg_Inventory_Level</field>
+        <isDerived>false</isDerived>
+        <sortIndex>1</sortIndex>
+    </measures>
+    <measures>
+        <conditionalFormatting>
+            <formattingPredicates>
+                <formatValue>#E84340</formatValue>
+                <operator xsi:nil="true"/>
+                <sortIndex xsi:nil="true"/>
+                <value xsi:nil="true"/>
+            </formattingPredicates>
+            <property>chartColor</property>
+            <referenceField>avg_NPS</referenceField>
+            <sortIndex xsi:nil="true"/>
+            <type>static</type>
+        </conditionalFormatting>
+        <field>all_1_1.avg_NPS</field>
+        <isDerived>false</isDerived>
+        <sortIndex>2</sortIndex>
+    </measures>
+    <measures>
+        <conditionalFormatting>
+            <formattingPredicates>
+                <formatValue>#E6E830</formatValue>
+                <operator xsi:nil="true"/>
+                <sortIndex xsi:nil="true"/>
+                <value xsi:nil="true"/>
+            </formattingPredicates>
+            <property>chartColor</property>
+            <referenceField>avg_Replacement_Car_Utilisation</referenceField>
+            <sortIndex xsi:nil="true"/>
+            <type>static</type>
+        </conditionalFormatting>
+        <field>all_1_5.avg_Replacement_Car_Utilisation</field>
+        <isDerived>false</isDerived>
+        <sortIndex>3</sortIndex>
+    </measures>
+    <type>Asset</type>
+    <waveVisualization>Company_Overview</waveVisualization>
+</WaveXmd>
