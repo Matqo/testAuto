@@ -1,0 +1,32 @@
+# List files or directories below to ignore them when running force:source:push, force:source:pull, and force:source:status
+# More information: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_exclude_source.htm
+#
+
+package.xml
+
+# app switcher
+#AppSwitcher.appMenu
+
+#ignore profiles
+#**profiles
+force-app/main/default/roles/Demo.role-meta.xml
+force-app/main/default/profiles/Admin.profile-meta.xml
+
+force-app/main/default/wave
+force-app/main/default/eclair
+force-app/main/default/contentassets/automative111jpg.asset                      
+force-app/main/default/contentassets/automative111jpg1.asset                      
+force-app/main/default/contentassets/automativeindustryLInsightsOpinionj1.asset   
+force-app/main/default/contentassets/automativeindustryLInsightsOpinionj2.asset   
+force-app/main/default/contentassets/automativeindustryLInsightsOpinionj3.asset   
+force-app/main/default/contentassets/eabd030bdbf21ffb36e0cd12dfb420f7xjp.asset    
+force-app/main/default/contentassets/maxresdefaultjpg.asset                       
+force-app/main/default/contentassets/maxresdefaultjpg1.asset 
+# LWC configuration files
+**/jsconfig.json
+**/.eslintrc.json
+
+# LWC Jest
+**/__tests__/**
+
+CustomApplication.Contact
